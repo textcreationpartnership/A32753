@@ -1,0 +1,807 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods mercy shewed to his people in giving them a faithful ministry and schooles of learning for the continual supplyes therof delivered in a sermon preached at Cambridg, the day after the commencement / by Charles Chauncy, B.D., President of Harvard Colledg in New-England ; published with some additions therunto at the request of diverse honoured and much respected friends ...</title>
+            <author>Chauncy, Charles, 1592-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 91 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32753</idno>
+            <idno type="STC">Wing C3738</idno>
+            <idno type="STC">ESTC W19762</idno>
+            <idno type="EEBO-CITATION">12384927</idno>
+            <idno type="OCLC">ocm 12384927</idno>
+            <idno type="VID">60819</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32753)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60819)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 273:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods mercy shewed to his people in giving them a faithful ministry and schooles of learning for the continual supplyes therof delivered in a sermon preached at Cambridg, the day after the commencement / by Charles Chauncy, B.D., President of Harvard Colledg in New-England ; published with some additions therunto at the request of diverse honoured and much respected friends ...</title>
+                  <author>Chauncy, Charles, 1592-1672.</author>
+               </titleStmt>
+               <extent>[4], 57 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Green at Cambridg in New-England,</publisher>
+                  <pubPlace>[Cambridge] :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: Gods mercy in the ministry and schools of learning.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Baccalaureate addresses.</term>
+               <term>Congregational churches --  New England --  Sermons.</term>
+               <term>Sermons, American.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60819:1"/>
+            <pb facs="tcp:60819:1" rendition="simple:additions"/>
+            <p>
+               <hi>GODS</hi> MERCY, SHEWED TO HIS PEOPLE IN GIVING THEM A FAITH<g ref="char:EOLhyphen"/>FUL <hi>MINISTRY</hi> AND <hi>SCHOOLES</hi> OF <hi>LEARN<g ref="char:EOLhyphen"/>ING</hi> FOR THE CON<g ref="char:EOLhyphen"/>TINUAL SUPPLYES THEROF.</p>
+            <p>
+               <hi>Delivered in a Sermon preached at Cambridg, the day after the Com<g ref="char:EOLhyphen"/>mencement, by</hi> Charles Chauncy, B. D, <hi>Preſident of</hi> HARVARD Colledg <hi>in New-England.</hi>
+            </p>
+            <p>Publiſhed with ſome additions therun<g ref="char:EOLhyphen"/>to at the requeſt of diverſe Honoured, and much Reſpected friends, For publick benefit, as they judged.</p>
+            <q>
+               <bibl>
+                  <hi>1 Theſ. 5.12.</hi>
+               </bibl> We beſeech you brethren to know them that labour amongſt you, &amp; are over you in the Lord, and eſteem them very highly in Love for their works ſake.</q>
+            <p>Printed by <hi>Samuel Green,</hi> at <hi>CAMBRIDG</hi> in New-England 1655.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:60819:2"/>
+            <pb facs="tcp:60819:2"/>
+            <head>TO THE HONOURED <hi>GOVERNO<g ref="char:V">Ʋ</g>R</hi> OF THE MASSACHUSETS <hi>JOHN ENDICOTT Eſq,</hi> TOGETHER WITH THE DEPUTY GOVERNOUR <hi>RICH. BELLINGHAM Eſq,</hi> AND THE REST OF THE HONOURED BENCH.</head>
+            <p>
+               <hi>AS ALSO TO ALL THE BO<g ref="char:V">Ʋ</g>NTIF<g ref="char:V">Ʋ</g>L</hi> BENEFACTORS <hi>OF THE</hi> COLLEDG <hi>SERVIVING.</hi>
+            </p>
+            <p>AND TO ALL THE <hi>FAVO<g ref="char:V">Ʋ</g>RERS,</hi> AND TRUE <hi>WELL-WISHERS</hi> TO THE FAITHFULL MINISTRY, AND SCHOOLS OF LEARNING.</p>
+            <closer>
+               <signed>CH. CH. Wiſheth increaſe of Grace, and proſperity, as their Soules proſper.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:60819:3"/>
+            <pb n="1" facs="tcp:60819:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Amos. 2.11.</hi>
+                  </bibl>
+                  <p>And I rayſed up of your Sonns for Prophets, and of your Young men for Nazarits, is it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot ſo O ye children of Iſrael, ſaith the LORD?</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Spirit of GOD by the Prophet Amos ſeemes to agravate the ſins of Judah and Iſrael mentioned from <hi>verſ.</hi> 4 — 9. by calling to remembrance the <hi>mercyes</hi> beſtowed upon them. And four mercyes eſpecially are here mentioned. 1. The deſtruction of the <hi>Amorite</hi> before them. <hi>(under whom <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re com<g ref="char:EOLhyphen"/>prehended all the Canaanites,</hi>) which <hi>mercy</hi> is am<g ref="char:EOLhyphen"/>plyfied two wayes 1. by the mighty ſtature and ſtrength of this people <hi>[that their height was like the height of Cedar, and he was ſtrong as the Oaks,]</hi>
+            </p>
+            <p n="2">2. by their utter deſtruction <hi>[yet I destroyed his fruit from above, and his roots from beneath,]</hi> we gather the fruit of trees many times yet the tree ſtands many a year and bears new fruits, ſo the Lord doth impoveriſh a people, and ſuffer all their
+<pb n="2" facs="tcp:60819:4"/> cattle and ſubſtance to be taken away, or plun<g ref="char:EOLunhyphen"/>dred by their enemies, which doe afterwards re<g ref="char:EOLhyphen"/>cover themſelves and flouriſh again, but when a tree is rooted up, there is no more hope of it: thus did the Lord pluck up the Amorites by the roots, notwithſtanding their cedar-like talneſs, &amp; ſtrength as heart of Oak, this is the firſt mercy mentioned.</p>
+            <p n="2">2. The Lord telleth them of their deliverance out of Egypt, <hi>verſe.</hi> 10. which the Lord often in<g ref="char:EOLhyphen"/>ſiſts upon. 3. Of their ſafe conduct through the wilderneſs fourty years together, and theſe were three great bleſſings, yet they were but tem<g ref="char:EOLhyphen"/>porall. but the next and laſt paſſeth all the reſt, and is ſpirituall. 4. <hi>I rayſed up of your S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns &amp;c.</hi> this is that bleſſing that is now to be ſpoken of.</p>
+            <p>There be two generall parts of the text</p>
+            <p n="1">1. A deſcription of the ſpirituall benefit beſtow<g ref="char:EOLhyphen"/>ed, in the firſt word<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>[I rayſed up of your Sons &amp;c:]</hi>
+            </p>
+            <p n="2">2. A teſtificatio<g ref="char:cmbAbbrStroke">̄</g> that ſuch a benefit was beſtowed in the laſt words <hi>[<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s it not ſo O ye children of Iſrael ſaith the Lord?]</hi>
+            </p>
+            <p>In the deſcription we may note 1. The cauſe and author of this benefit, <hi>[<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>he Lord]</hi> 2. The manner of working <hi>[<gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> up]</hi> 3. The benefit and eff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct it ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lf, <hi>[Prophets and Naza<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ts]</hi> amplified by the perſons that were ſo raiſed up <hi>[<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Sons a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>men.</hi>
+            </p>
+            <p n="2">2. For the teſt fic<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>on it is ſet down in the form of a q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtion wherin note 1. who makes the
+<pb n="3" facs="tcp:60819:4"/> queſtion 1. the Lord. 2. the perſons to whom the queſtion is made [the people of Iſrael] 3 the intent and meaning of the queſtion, which is a ſtrong &amp; vehement aſſeveration. for the meaning of <hi>[is it not ſo]</hi> is, that it is certainly ſo.</p>
+            <p>Now to open the meaning of the words.</p>
+            <p>
+               <hi>And I]</hi> that deſtroyed the Amorites &amp;c: it was the ſelf ſame perſon and power that raiſed up theſe Prophets among you.</p>
+            <p>
+               <hi>Raiſed up]</hi> word for word, I made them to ariſe, <hi>I made Prophets to ariſe from among your Sonns, or I made them to be ſuch,</hi> in this ſence the word is uſed. <hi>Deut:</hi> 34.10. <hi>there aroſe not a Prophet ſince in Iſrael like unto</hi> Moſes: <hi>and among them that were of Women, there aroſe not a greater then</hi> John <hi>the</hi> Baptiſt. ſo then here <hi>I raiſed up</hi> viz <hi>I made them to be Prophets. I raiſed them out of low conditio<g ref="char:cmbAbbrStroke">̄</g> as if I had raiſed them out of the duſt. I have raiſed up of your Sonns]</hi> or from among your Sonns, that is ſome of your Sons <hi>(ſaith Mercer)</hi> if they were Prophets, though ſtrangers, it were no ſmall mercy, but to ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe them up from among your ſonns, ſuch as came forth out of your own loynes. <hi>(as Samuel and Jeremiah were)</hi> this far<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> exceeds the other. <hi>For Prophets]</hi> not onely to foretel things to come, but faithfully teach &amp; inſtruct you, for there were two ſorts of the Prophets in theſe times of the old Teſtament:
+<pb n="4" facs="tcp:60819:5"/> 1. ſuch as were taught in ſchooles (as Samuel) under the Diſcipline of other Prophets, ſuch were uſually called the ſonns of the Prophets, 2 Kings. 4.1. &amp; 6.1. this may appear by comparing together 2 Kings. 2.12. &amp; <hi>vers.</hi> 3. of the ſame <hi>chapter vers.</hi> 12. <hi>Eliſhah ſaid my father my father, the chariots of Iſraell and the horſemen therof,</hi> Elijah was not Eliſhahs naturall father for it is ſaid <hi>verſe.</hi> 3. Elijah was Eliſhahs maiſter and ſo he was indeed, he taught him &amp; inſtruct<g ref="char:EOLhyphen"/>ed him, therefore the ſons of Prophets were ſuch as were trained up under the Prophets in good literature, and ſo fit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d for the office of a Prophet afterwards, 2. Others had their calling imme<g ref="char:EOLhyphen"/>diatly from God, and were by him extraordina<g ref="char:EOLhyphen"/>rily inſpired with gifts from above, as <hi>Amos.</hi> 7.14, 15. <hi>Amos ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th I was not a Prophet nor the ſon of a Prophet, but I was an heardſman, and a ga<g ref="char:EOLhyphen"/>therer of ſycamore fruit:</hi> that is <hi>I was not trayned up in any of the ſchooles of the Prophets, but I had ano<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her calling, untill the Lord was pleaſed to advance me to the office and dignity of a Prophet, &amp; verſ.</hi> 15. <hi>He took me as I followed the flock and ſaid Prophecy to my people Iſrael,</hi> both theſe ſorts of Prophets may be underſtord heere, both ſuch as had there education in the ſchooles of the Pro<g ref="char:EOLhyphen"/>phets, and ſuch as were called immediatly, and extraordinarily inſpired, God was the rayſer
+<pb n="5" facs="tcp:60819:5"/> up of them both, for humane inſtruction is not ſufficient to make any man to be a Prophet: yes and no leſs power of God and grace is requiſite to raiſe up your Sonns to be Prophets whatſoever their educatio<g ref="char:cmbAbbrStroke">̄</g> is, the<g ref="char:cmbAbbrStroke">̄</g> where he doth inſpire others immediately &amp; extraordinarily, there<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore where extraordianry meanes is wanting, the goodneſs of God in bleſſing ordinary means muſt not be for<g ref="char:EOLhyphen"/>gotten. <hi>[Of your young men]</hi> it is ſpoken of young men emphatically, for it is a mighty change that young men that are addicted to their plea<g ref="char:EOLhyphen"/>ſures &amp; luſts, that now they ſhould be ſo changed as to preach Chriſt, &amp; to ſavour heavenly things, and to be ſet apart to God, <hi>[To be Nazarites]</hi> the Nazarites were <hi>ſeparati<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i</hi> (ſaith <hi>Mercer</hi>) men ſeparated from vulgar delights, that they mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht apply themſelves and their ſtudy to the word of God and his worſhip. Some apply that which is ſpoken of our Saviour Chriſt <hi>Math.</hi> 2. <hi>Hee ſhall be called a Nazarene,</hi> to have ſome reference to this vow of a Nazarite, but no doubt that place hath reſpect meerly to the c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tty Nazareth, which is derived of <hi>Natzar</hi> that ſign<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fies to keep, and not of <hi>Nazar</hi> that ſignifies to ſeparate, ſo the Nazarites were ſeparated from the vulgar ſort of men to a ſtrict courſe of life, the Law of them is ſet down <hi>Num:</hi> 6. which ye may read at your leiſure, now there were two ſorts of Nazarites
+<pb n="6" facs="tcp:60819:6"/> ſome limited to a certain time, others were per<g ref="char:EOLhyphen"/>petuall, and theſe latter were conſecrated to the ſtudy of the word of God, and trayned up there<g ref="char:EOLhyphen"/>unto from their childhood, under a ſevere diſcipline and auſteer courſe of life, that at length they might be able to goe before the people of God, as well by ſoundnes of doctrine, as by the example of an holy life. So that now the meaning of the text is that although Allmighty God had done great things for Judah, and Iſrael, yet this benefit exceeded all the reſt, that the Lord had provided a faithfull miniſtry, not onely extrord<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nary, but ſuch as were rayſed from the poſterity of his people by his bleſſing upon the ſchooles of learning and meanes of education, to be ſeparated unto God and ſet apart for the work of God in the ſalvation of mens ſouls.</p>
+            <p>
+               <hi>Doct.</hi> It is a ſpecial bleſſing of God to his people, when he affords and bleſſes the means of inſtruction for the education of youth, to raiſe up ſome from our Children, and young men and to fit them for the work of the Miniſtry.</p>
+            <p>It is a bleſſing of God, for he ſaith [I <hi>raiſed up</hi>] no creature alone can do it, it is a ſpecial bleſſing, more then deliverance from any outward enemyes, as t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Amorites and the C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nanites were, for they had but an <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of fleſh, but here are ſpiritual
+<pb n="7" facs="tcp:60819:6"/> wickedneſſes that be vanquiſhed, it is greater then the deliverance out of Egipt, for many that were delivered from thence afterwards periſhed <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ude.</hi> 5. It is a greater mercy then the Lord ſhewed to his people in leading them through the wilderneſs forty yeares, though herein there was the angel of Gods preſence that went before them in the pillar of cloud and fire, that directed them and kept them in all their way, yet neither was that mercy comparable to that in the text, for that was mainly an outward help, for notwithſtanding that there were ſix hundred thouſand of them, whoſe car<g ref="char:EOLhyphen"/>caſſes fell in the wilderneſs, but in this ſpirituall mercy Eternall deſtruction is prevented, this ther<g ref="char:EOLhyphen"/>fore exceeds all the reſt, and there is an other kind of the Lords preſence walking in the midſt of the golden candleſticks, which brings us to ſpirituall &amp; everlaſting peace, and mercy in the miniſtry of Gods ſervuants.</p>
+            <p>For the further proof of this ye may obſerve that the Lord much ſtands upon this, on all occa<g ref="char:EOLhyphen"/>tions as the greateſt ſavour in ſending of his prophets and miniſters and meſſingers unto his people as 2 Chron: 36.15. <hi>The Lord God of your fathers ſent unto you by his meſſingers, riſing-up early &amp; ſending them, (when as Gods miniſters riſe up betimes then God himſelfe is ſaid to riſe up betimes, God will not ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eep when his miniſters wake<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> why did the Lord thus ariſe and ſend, becauſe he had compaſ<g ref="char:EOLhyphen"/>ſion
+<pb n="8" facs="tcp:60819:7"/> on his people and on his habitation, becauſe of the bowels of his pitty and compaſſion on the poor ſouls of his people, ſo <hi>Jer:</hi> 3.15. when he promiſes to give <hi>pastours after his own heart to feed them with knowledg, and underſtanding, upon their unfe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ned repentance,</hi> yea this is ſuch a mercy that it may comfort the hearts of Gods people what<g ref="char:EOLhyphen"/>ſoever their afflictions bee, as the Lord ſaith <hi>Iſai.</hi> 30.20. <hi>though I feed them with the bread of affliction and give them the water of affliction to drink, yet their eyes ſhall ſee their teachers, and their teachers ſhall not be removed into a corner any more,</hi> as if he had ſaid though your aflictions are heavy yet this ſhall be a mitigation of them, that you ſhall have faithfull teachers to inſtruct you ſtill, this will ſurely mitigate and lighten all other afflictions: yea this will lift up Gods people above all their afflic<g ref="char:EOLhyphen"/>tions, will lift them up to heaven as it is ſpoken of Capernaum <hi>Mat.</hi> 11. and obſervable is that of Paul <hi>Rom.</hi> 15.29. <hi>I know that when I come unto you I ſhall come in the fulneſs of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſings of the G sp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll,</hi> ye ſee that there is a fulneſs of bleſſings in the preaching of the Goſpell, they are but ſhal<g ref="char:EOLhyphen"/>low bleſſings in compariſſon that we have in outward thing.</p>
+            <p>But now when the Lord raiſed up our ſonns &amp; young men to be our prophets, and miniſters the bleſſing is greatly increaſed, ye may remember how mervell<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ly Za<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>harias was affected <hi>Luke.</hi> 1 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>7.
+<pb n="9" facs="tcp:60819:7"/> when it was revealed to him by the angel that he ſhould have a ſonn that ſhould turn many of the children of Iſraell to the Lord their God, <hi>that is</hi> that he ſhould ſerve him in the work of the mi<g ref="char:EOLhyphen"/>niſtry, and ſhould come in the ſpirit and power of <hi>Elias,</hi> what joy and gladnes he was filled with all? and brake forth into that heauenly ſong of prayſes unto the Lord, and next unto the mercy of God in Chriſt; he prayſes him for John Baptiſt and ſaith <hi>verſe.</hi> 76. <hi>Thou child ſhalt be called the Prophet of the higheſt, for thou ſhalt goe before the face of the Lord to prepare his wayes, to give knowledg of ſalvation to his people by the remiſſion of their ſinns,</hi> this was the great argument of his prayſes not only that John Baptiſt ſhould be a Prophet, and ſhould give knowledg of ſalvation to Gods people, but that his child ſhould ſerve God in ſo high and heavenly a calling, &amp; ſo great an imploiment, ſo it was granted for a great bleſſing that the Lord promiſed to Phinehas <hi>Numb:</hi> 25.13. <hi>he ſhall have he &amp; his ſeed after him, even the covenant of an everlasting prieſthood, becauſe he was zealous for his God, and made an atonement for the children of Iſrael:</hi> if the Lord had not accounted this a great mercy he would never have given it as a reward to his faithfull ſervant, neither on the contrary would the Lord have laid this as an heavy judgment on Elies houſe, that he cut them off from his altar, that is, be deprived them utterly from the office of the
+<pb n="10" facs="tcp:60819:8"/> Prieſthood, which afterwards the Lord did, when he cut off by the hands of Saul Nob the Citty of the Prieſts. Thus the Point is ſufficiently cleered by ſcripture.</p>
+            <p>
+               <hi>Reaſon</hi> 1. <hi>This must needs be a great bleſſing,</hi> Becauſe the miniſtry is purchaſed at ſo high a rate, and the buſineſs was ſo great to ſet it up, now the providing of an able, and faithfull miniſtry coſt much, and it was a mighty buſynes to ſet it up. <hi>Ephe.</hi> 4.8. <hi>Chriſt aſcended up on high and led cap<g ref="char:EOLhyphen"/>tivity captive, &amp; gave gifts unto men:</hi> firſt that Chriſt muſt not only deſcend into the lower parts of the earth, but he muſt aſcend into heaven farr above all principallityes and powers 2. He muſt lead captivity captive, that is over ſin, ſathan, and what ſoever had led us away captive, to do this<g ref="char:punc">▪</g> if all the powers of darknes could binder it, there ſhould never haue been a faithfull miniſtry ſet up, therfore Chriſt muſt captivate all theſe for this end, this ſheweth the bleſſing to be exceeding great, that ſo great a means was requiſite for the procuring of it.</p>
+            <p>
+               <hi>Reaſon</hi> 2. There is in the ſame place annexed an other reaſon to prove the greatneſs of this bleſſing; taken from the excellency of the end of it, <hi>ver:</hi> 11.12. <hi>He gave ſome Apostles, and ſome Prophets, &amp; ſome Evangeliſts, and ſome Paſtours and Teachers, for the perfecting of the ſaints, for the work of the min<g ref="char:EOLhyphen"/>iſtry, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd for the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>fying of the body of Chr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> as if he had ſaid, that this <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>fit is of ſo great a neceſſity,
+<pb n="11" facs="tcp:60819:8"/> that it concerns both the gathering and building up and the eternall ſalvation of the elect:</p>
+            <p>Object: <hi>it will be ſaid,</hi> that this was but for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhort <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ime, that the Apoſtles and Prophets and Evangeliſts did continue,</p>
+            <p>
+               <hi>Anſw:</hi> But we have the writings of the Apoſtles Prophets and Evangeliſts to the end, and we muſt have Ordinary miniſters, Paſtours and Teachers, <hi>till we all come into the unity of the faith, and the knowledg of the Son of God, unto a perfect man, unto the meaſure of the ſtature of the fuineſs of Chriſt,</hi> that is, to the end of the world, and the conſu<g ref="char:cmbAbbrStroke">̄</g>mation of all things, and therefore it is an helliſh deluſion to conceive that the miniſtry ſhould be loſt quite and diſſanulled, by Antichriſtian ſuperſtition, for this aſſertion doth plainly annihilate both the Church and ſaints, and any farther ſalvation of any ſouls, which were impious to conceive.</p>
+            <p>
+               <hi>Reaſ.</hi> 3. I may reaſon from the difficulty of the work, &amp; the calling of the Prophets &amp; Nazerites, it is a very high dignity, for our ſons &amp; young men to be advanced unto, it is ſuch a dignity as God only can beſtow, and ſuch as they be raiſed up by God himſelf unto it, the Prophet is the name of Seers, 1 <hi>Sam:</hi> 9.9. they have better eyes then other men, they are the men of God, (as the mountains of God, and Cedars of God are ſo called) by way of excellency, the perſons that have more of God in them then other men, they are nee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt unto God.
+<pb n="12" facs="tcp:60819:9"/> 
+               <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>vit:</hi> 10.3. and they bring others alſo neerer unto God. Yea the calling of a Prophet is ſuch an honour, as that title was given to the Lord Jeſus Chriſt himſelf, <hi>Deut:</hi> 18.18. So the Galathians received <hi>Paul</hi> as Jeſus Chriſt himſelf <hi>Gal.</hi> 4.14.</p>
+            <p>Likewiſe to be a <hi>Nazarite</hi> is a mighty dignity, for our ſonns and young men to be ſeparated to the Lord, &amp; ſanctified for his ſervice, is no ſmall prefer<g ref="char:EOLhyphen"/>ment, (they are called, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> by the <hi>Septuagents) Lam:</hi> 4.7. <hi>her Nazarites were whiter then ſnow, purer then milke, more ruddy</hi> in body <hi>then Rubyes, their poll<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhing was of Saphire:</hi> that is they were the moſt beautifull perſons in the ſight of God of all others; this is a mighty excellen<g ref="char:EOLunhyphen"/>cy therefore the bleſſing muſt needs be great.</p>
+            <p>
+               <hi>Reaſon</hi> 4. It is an invaluable mercy, for Parents and old men, that their children &amp; young men are thus qualified &amp; dignified, it is a ſingular bleſſing to have a gracious child, 3 <hi>John</hi> 4. <hi>J have no greater joy then to hear that my children walk in the Truth,</hi> greateſt joyes are fruits of the greateſt bleſſings poſſeſſed by us. It is the firſt of Solomons Pro<g ref="char:EOLhyphen"/>verbs, <hi>Chap:</hi> 10.1. <hi>A wiſe Son maketh a glad Father,</hi> but to have a child, that will make others wiſe, is a farr greater joy to a parent. <hi>Dan:</hi> 12.3. They that make others wiſe <hi>ſhall ſhine as the bright<g ref="char:EOLhyphen"/>neſs of the firmament, and they that turn many to righteouſneſs, as the Starrs for ever and ever:</hi> So
+<pb n="13" facs="tcp:60819:9"/> what a joy is it for the aged to ſee godly young ones growing up, that the Lord gives us hope of future generations, Jſay 58.12. <hi>They that ſhall be of thee ſhall build up the old waſt places, and thou ſhalt rayſe up the foundations of many generations &amp;c:</hi> It is more when they do theſe great things that ſhall be of us: <hi>viz</hi> of our own poſterity, but next it is comfortable, when as the younger ſort, are hopefull and promiſing, that the Lord gives us to conclude that the future harveſt is great, when he ſends forth already ſo many labourers.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. It is a ground of juſt double reproof,</p>
+            <p n="1">1. Of our great unthankfulneſs unto God, that hath beſtowed this great mercy upon <hi>N-England</hi> and let it be conſidered how it hath been general<g ref="char:EOLhyphen"/>ly entertained by the Country: I may ſpeak unto you, Men, Brethren, and Fathers, in the language of Samuel, 1 <hi>Sam:</hi> 12.7. <hi>stand ſtill that</hi> I <hi>may rea<g ref="char:EOLhyphen"/>ſon with you before the Lord, of all the righteous acts of the Lord, which he did to you &amp; to your fathers,</hi> and then he telleth them of the Lords ſending of <hi>Moſes &amp; Aaron, and bringing them out of the land of Egipt,</hi> by the hand of theſe his ſervants: So I might relate unto you, what the Lord hath done for this Country, in providing, and ſending hither a faithfull, ſound and able Miniſtry to them, that he hath alſo in great part graciouſly preſerved and continued unto them, and as if this had been too
+<pb n="14" facs="tcp:60819:10"/> little, he hath added this in <hi>rayſing up of our ſons to be Prophets &amp;c:</hi> he hath wonderfully erected Schools of learning, and meanes of education for our children, that there might be continually ſome comfortable ſupply &amp; ſucceſſion in the Miniſtry, Is it not ſo O ye people of God in New-England? If it hath been ſo, and be ſo ſtill in a good meaſure then let me teſtifie againſt you in the Lords name for great unthankfulnes to the Lord for ſo great a mercy. Now there be ſeveral degrees of this unthankfulnes. As 1. To paſs by a mercy without any ſerious acknowledgment thereof, as the Lord complaines, <hi>Hoſea</hi> 2.8. <hi>thou haſt not known, (or acknowledged) that</hi> I <hi>gave thee thy corn &amp; thy wine, and oyl &amp;c:</hi> 2. To ſlight any mer<g ref="char:EOLhyphen"/>cy of the Lord, as the Iſraelites did alſo, <hi>Num.</hi> 11.6 <hi>Our ſoul (ſaid they) is even dryed up, there is nothing but this Manna before our eyes &amp;c:</hi> 3. To deny any mercy of God, as they did <hi>Numb:</hi> 14.3. they did not account it a mercy that the Lord brought them out of Egypt. 4. To account bleſſings for curſes, as they at another time, <hi>Deut:</hi> 1.27. <hi>Becauſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Lord hated us, he hath brought us (into the wilderneſs) to deſtroy us.</hi> 5. When as we abuſe Gods bleſſings to ſin ſo much the more againſt the Lord, as the ſame people did <hi>Hoſea</hi> 10.1. <hi>ac<g ref="char:EOLhyphen"/>cording to the multitude of his fruit he hath increaſed the Alta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s: according to the goodneſs of his land, they
+<pb n="15" facs="tcp:60819:10"/> have made goodly images.</hi>
+            </p>
+            <p>Now all this unthankfulnes is found in many, and in ſome meaſure ſome in all at this day, for this great bleſſing of the Miniſtry &amp; the means of the continual ſucceſs and ſucceſſion therin.</p>
+            <p n="1">1. Many will not acknowledg the mercy, but paſs it by as a matter of litle or no worth: the great bleſſing of a painfull Miniſtry is not regarded by coveteous earth-wormes, neither do the ſchools of learning, that afford oyl to the lamps, come into their thoughts or language to prayſe the Lord for them, this is that ſin reproved in Iſrael <hi>Jer.</hi> 2.6. <hi>Neither ſaid they where is the Lord that brought <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> out of the land of Egipt?</hi>
+            </p>
+            <p n="2">2. There are others that do ſlight theſe mercys ſome litle good they apprehend in it, to have a Miniſter to ſpend the Sabbath, to baptize their children, and ſchools to teach their children, and keep them out of harmes way, or teach them to write and read, and caſt accounts, but theſe de<g ref="char:EOLhyphen"/>ſpiſe the Angels bread, and account it but light ſtuff in compariſſon of other things, theſe are like <hi>Jeſhurun, Deut.</hi> 32.15. that are fatted with other contentments, and do lightly eſteem the rock of their ſalvation.</p>
+            <p n="3">3. There are others that deny this to be a mercy there be many in the country, that account it their happineſs to live in the waſt howling wilderneſs, without any miniſtry, or ſchooles, and means of
+<pb n="16" facs="tcp:60819:11"/> education for their poſterity, they have much liber<g ref="char:EOLhyphen"/>ty (they think) by this want, they are not troubled with ſtrict ſabbaths, but they may follow their worldly buſſineſs at any time, and their children may drudg for them at plough, or hough, or ſuch like ſervil imployments, that themſelves may be eaſ<g ref="char:EOLhyphen"/>ed, wheras the ſcripture ſaith 2 <hi>Chron:</hi> 15.3 that they that are without a <hi>teaching miniſtry are without the true God and without the law,</hi> ſurely ſo they are that do voluntarily make choiſe of ſuch a condition, but thier practice about their children is litle better then the mercyleſs unnaturall and prophaneſs of the Iſraelites <hi>Pſal.</hi> 106 36. <hi>That ſacrificed their ſonns and their daughters unto Devils.</hi>
+            </p>
+            <p n="4">4. Some goe ſo far as to account theſe bleſſings to be curſes, ſo as to ſay that our miniſtryes are an<g ref="char:EOLhyphen"/>tichriſtian, and ſchools of learning popiſh, and the ſeminaryes of wickedneſs, &amp; looſneſs in the Coun<g ref="char:EOLhyphen"/>try: it is not my purpoſe to confute their ſcurrilous reproaches of the miniſtry, (which are ſufficiently confuted both by the doctrine and holy converſati<g ref="char:EOLhyphen"/>on of Gods faithfull ſervants,) nor yet to plead for any diſſolute courſes, or diſorder that is found a<g ref="char:EOLhyphen"/>mongſt ſchollers, but I deſire rather to mou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n for them, and to pray that ſome ſalt may be caſt into the fountain that the waters may be healed, but let not whole ſocietyes or profeſſions be charged or blemiſhed for the faylings or ſcandalous carriages of ſome: if there be <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, or had been more Judaſes
+<pb n="17" facs="tcp:60819:11"/> among the diſciples of Chriſt, yet let not all the reſt be indighted or arraigned for the viciouſneſs, and diſloyalty of others.</p>
+            <p n="5">5. Many do make wicked returns of theſe bleſ<g ref="char:EOLhyphen"/>ſings, and fearfully abuſe them, and ſeek what they can to weary out miniſters, &amp; to pull down ſchools of learning, or which is all one to take away oyl from the lamps, denying or withholding mainte<g ref="char:EOLhyphen"/>nance from them, whereby they do as good as ſay let them tumble and fall, <hi>raſe them raſe them to the foundations:</hi> There be others that do foment and abett oppoſitions againſt Gods miniſters raiſe factions in Churches, &amp; Colledg, to make havock and utter diſſipation of all; I might add alſo the poor and ſlender requital (to ſpeak no worſe) of ſuch as have with moſt faithfullneſs and diligence ſerved the Lord and his Churches in workes of ſo great importance: But I will ſpare the inlargeme<g ref="char:cmbAbbrStroke">̄</g>t of theſe things, leſt that I paſs my bonds both of my ſtrength and time.</p>
+            <p>But now how extreamly hateful to the Lord all this unthankfulneſs is, I need not be long in ſhew<g ref="char:EOLhyphen"/>ing; <hi>Deut:</hi> 32.6. <hi>Do ye thus requite the Lord ye people fooliſh and unwiſe?</hi> and Iſay 1.2, 3. <hi>Hear O heavens and give care O earth, for the Lord hath ſpoken; I have nouriſhed &amp; brought up children, and they have rebelled againſt me, the Ox knows his owner &amp;c:</hi> and Micah 6.2, 3. <hi>Hear O ye mountains, the Lords con<g ref="char:EOLhyphen"/>troverſie with his people, and he will plead with Iſrael
+<pb n="18" facs="tcp:60819:12"/> O my people what have I done unto thee? wherein have I wearied thee? teſtifie againſt mee, for I brought thee out of the land of Egipt, and redeemed thee &amp;c:</hi> this unthankfulneſs is that which cauſeth the Lord to take away his bleſſings from us: <hi>Hoſea</hi> 2.8, 9. <hi>ſhee did not know that I gave her coin &amp; wine &amp; oyl, therefore will I return and take away her corn in the time therof, and wine in the ſeaſon therof, and will recover my wooll &amp; my flax, given to cover her naked<g ref="char:EOLunhyphen"/>neſs:</hi> there is the ſame reaſon in other bleſſings, as if the Lord ſhould ſay in this caſe, I will put out the light, and take away the miniſtry, pull down the ſchools of learning, for this unthankfullneſs of yours which alſo the Lord hath allready done in ſome parts of this Country.</p>
+            <p>
+               <hi>The S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> branch of this reproof,</hi>
+            </p>
+            <p n="2">2. This ſerves to reprove whatſoever other ſins Gods people do commit injoying theſe great mer<g ref="char:EOLhyphen"/>cyes, look at this as an aggravation of all our ſins that the Lord hath done theſe great things for us, he hath ſubdued the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all our enemyes, Indians and others, whoſe hight was like the hight of Cedars, and they were ſtrong as the Oaks, he brought us out of the land of Egipt, out of the iron furnace, from many grieveous taſk maſters, from under the Prelates<g ref="char:punc">▪</g> who ſet us to pick ſtraws: He lead us through this wilderneſs, ſome near upon fourty years<g ref="char:punc">▪</g> and hath ſtrangely here provided for us: now Laſtly he hath rayſed up of our ſonns for
+<pb n="19" facs="tcp:60819:12"/> Prophets, and our young men for Nazarites: ſurely then the Lord may juſtly take it unkindly at our hands, that we have ſo exceedingly provoaked him by our many ſins, and as he ſaith <hi>for three tranſ<g ref="char:EOLhyphen"/>greſſions of Judah &amp; Iſrael and for four, I will not turn away the puniſhment thereof.</hi> For many, ſo he may ſay to us, <hi>for three tranſgreſſions</hi> of New-England <hi>and for four I w ll not turn away the pu<g ref="char:EOLhyphen"/>niſhment therof.</hi> And if God will not turn it away it is beyond all other power in the world to do it. There be diverſe ſins in <hi>Iſrael &amp; Judah</hi> here re<g ref="char:EOLhyphen"/>proved, which it would not be hard to find in New England, as <hi>the contempt of the Law <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n Judah, &amp; that their l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es cauſed them to erre.</hi> Suitably there is to be found in N-England the contempt of the word of God and his Ordinances, and liſtening to lying books &amp; pamphlets, that are brought over into the country, whereby multitudes are poyſoned amongſt us: In the Iſraelites he reproves theſe ſins Their <hi>falſe wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhip,</hi> ver. 8. <hi>they ſet up falſe Gods, and diverſe Altars, and turned Bethel</hi> the houſe of God, <hi>into Bethaven,</hi> the houſe of iniquity: this ſin of corrupting the worſhip of God, is ſtudyed by many even in churches, though not in ſuch a groſs manner as Iſrael did, we have not ſuch Idols as they, but ſpiritual we have, in the fields and in our houſes The Apoſtle calls <hi>coveteouſneſs idolatry.</hi> Another ſin of theirs was oppreſſion, which no doubt abounds exceedingly in this country, and
+<pb n="20" facs="tcp:60819:13"/> mark what he ſaith, <hi>they ſell the righteous for ſilver and he poor for a pair of ſhoos,</hi> ſcarcely any com<g ref="char:EOLhyphen"/>moditie can be had but for ſilver, but ſuppoſe a poor man wants a pair of ſhoos, or other clothes to cover his nakedneſs, that hath no ſilver: truely he muſt be fain almoſt to ſell himſelf, to get ſome mean commodities. Another of their ſins was that, <hi>they gave th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Nazarites wine to drink<g ref="char:punc">▪</g>
+               </hi> but here I ſhould rather ſay, ye give the Salvages and Indians wine &amp; ſtrong waters, &amp; truck with them for that which ye know they will <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>buſe to drunk<g ref="char:EOLhyphen"/>enneſs, if not to murther. Laſtly is is ſaid, <hi>they commanded the Prophets ſaying prophiſie not,</hi> I will not ſo apply it, as if there amongſt us any com<g ref="char:EOLhyphen"/>mand of Authority to that purpoſe, (yea we have cauſe to bleſs God for the contrary com<g ref="char:EOLhyphen"/>mands &amp; endeavours alſo of Government a<g ref="char:EOLhyphen"/>mongſt us,) but there is in too many places ſuch cariag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> towards the Lords Prophets, and the Proph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts ſons, that the miniſtry &amp; ſchool<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of learning (as was ſaid) are reproached, deſ<g ref="char:EOLhyphen"/>piſed, impoveriſhed, if not undone. Oh (ſaith the Lord) vers 13. <hi>Behold I am preſſed under you as a cart is pr ſſed that is full of ſheaves:</hi> So the Lord is preſſed under ſuch carnal Goſpellours, He is cruſhed (as farr as they can) by ſuch falſe-hearted profeſſours, they lay all the load upon the Lord himſelf, and no doubt but that the Lord will alſo d <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urthen himſelf of them: and it is no mervaile
+<pb n="21" facs="tcp:60819:13"/> if the Lord by his miniſters cryes out againſt ſuch wickedneſs in profeſſours, and ſaith as <hi>Iſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y.</hi> 22.1. <hi>The burthen of the valley of <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſion</hi> that is, it is but e<g ref="char:EOLhyphen"/>quall if they that ſee more and know more then others, and enjoy more means do burthen the Lord by their ſins, the Lord in like manner ſhould lay upon them the heavy burthen of the threatnings of his word, and the execution therof.</p>
+            <p>
+               <hi>vſe</hi> 2. This may ſerve for inſtruction to ſchol<g ref="char:EOLhyphen"/>lers and ſtudents, 1. Firſt to ſhew them what they ſhould mainly intend, ſtudy, and labour for, <hi>viz.</hi> that they may be Prophets and Nazarites,</p>
+            <p n="1">1. Prophets, 1 <hi>Cor</hi> 12. <hi>laſt. Covet earneſtly the beſt gifts<g ref="char:punc">▪</g>
+               </hi> as goodneſs is the object of the will, ſo the beſt things of the will rectified, and what are the beſt things? 1 <hi>Cor.</hi> 14.1. <hi>deſire ſpirituall gif s, but rather that ye may Prophecy</hi> amongſt all gifts the gift of propheſying is the beſt, and what is prophe<g ref="char:EOLhyphen"/>cying? but 1 <hi>Cor.</hi> 14.4. ſpeaking to edificatio<g ref="char:cmbAbbrStroke">̄</g>, ex<g ref="char:EOLhyphen"/>hortation, &amp; the comfort of others, this is a publick &amp; a ſpirituall good, &amp; therefore of an higher na<g ref="char:EOLhyphen"/>ture, and moſt of all to be attended by you, and aimed at in all your ſtudyes, It is a great matter alſo that the Lord takes the Prophets to be neer unto him, as in the placing of the tribes in the camp of Iſrael <hi>Num:</hi> 1.50, 53. the Levites were to pitch round about the Tabernacle of Teſtimony where the ſpeciall preſence of the Lord was) and the reſt of the tribes without the Levites further off, ſo the
+<pb n="22" facs="tcp:60819:14"/> 
+               <hi>Prophets &amp; Levites</hi> are neereſt u<g ref="char:cmbAbbrStroke">̄</g>to the Lord, which is a matter of comfort, aſſuring them of the Lords preſence, aſſiſtance &amp; protection in their calling, of d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gnity, as being next unto God, and imployed by him about greateſt ſervice; and alſo of duty, in ſtrict keeping of the Lords charge, and holy walk<g ref="char:EOLhyphen"/>ing before him: for which purpoſe remember often the Lords hand upon <hi>Hophm &amp; Phinehas,</hi> the ſons of <hi>E<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> upon <hi>Nadab &amp; Abihu,</hi> the ſons of <hi>Aaron,</hi> whom the Lord ſlew for their prophaneſs, and ſaid <hi>Levit.</hi> 10.3. that <hi>he would be ſanctified in all thoſe that draw neer unto him, and before all the people would be glorified,</hi> that is, that he would puniſh in ſome remarkable manner to the view of all, the ſcandalous and wicked carriage of any that were neer unto him in that function.</p>
+            <p n="2">2. Conſider further it i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that ye may be <hi>Naza<g ref="char:EOLhyphen"/>rites,</hi> that is, ſet apart in a peculiar manner unto the Lord, or ſeparated unto him; Now there are Three things in this ſeparation unto the Lord.</p>
+            <p n="1">1. <hi>A Sequeſtratio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> from wicked courſes &amp; com<g ref="char:EOLhyphen"/>panys, and from common things. From wicked wayes &amp; companyes, 2 <hi>Cor.</hi> 6.16. <hi>Be ye ſeperate and tou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> unclean thing &amp;c:</hi> to uſe the veſſells of the Temple to quaff &amp; carrouſe in, was a Babylo<g ref="char:EOLhyphen"/>niſh practiſe: yea there muſt be a ſequeſtration from common things, as the <hi>Nazari<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> were from creatures &amp; worldly delights &amp; diſtra &amp; ions, my meaning i, that you that are add cted this way
+<pb n="23" facs="tcp:60819:14"/> ſhould have leſs to do with the world &amp; worldly delights, and be leſs cumbred then others with the affaires of this life 2. In ſeparation, there is imployed a <hi>dedication unto the Lord,</hi> things that were o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> old ſeparated, were <hi>dedicated &amp; devoted</hi> to an holy uſe, as the Lord ſpeaks of the Levites, <hi>Numb:</hi> 16.9. <hi>The God of Iſrael hath ſeparated you from the Congregation of Iſrael to bring you neer unto himſelf:</hi> thus Hannah dedicated her firſt born unto the Lord 1. <hi>Sam:</hi> 1.18. So are ye to be as perſons devoted to the Lord. 3. There muſt be qualification with <hi>Holyneſs,</hi> other things ſepe<g ref="char:EOLhyphen"/>rated unto the Lord as the veſſels of the <hi>Sanctuary,</hi> and <hi>ministry,</hi> had a kind of <hi>relative holyneſs</hi> but in perſons ſeperated there ſhould be <hi>inherent holyneſs,</hi> ſtudents &amp; eſpecially miniſters ſhould have holy<g ref="char:EOLhyphen"/>neſs upon their foreheads, that is, profeſſed &amp; prac<g ref="char:EOLhyphen"/>tiſed and viſible unto all. Thus you may ſee what it is to be a <hi>Nazarite,</hi> and what ye ſhould ayme at in your ſtudyes.</p>
+            <p n="2">2. Hence ſtudents ſhould be inſtructed how they may attain to theſe excellencyes, &amp; how they may be had: for here we ſee that it was the Lord himſelf that raiſed up theſe young ones to be <hi>Pro<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e s,</hi> and <hi>Nazarites.</hi> &amp; it is not either your own ſtudy or parts, nor the teaching and inſtruction of others, that can poſſibly rayſe you up out of that dunghill wherin you ly, to this degree to be true <hi>Prophets</hi> of the Lord, but it is the Lord himſelf that
+<pb n="24" facs="tcp:60819:15"/> muſt put <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>derneath you his everlaſting armes to rayſe you up: therefore it concernes ſtudents to be much in prayer unto the Lord: dayly and duely to draw neer unto the Lord, to beg of him the ſpirit of wiſdom, and <hi>revelation,</hi> and a bleſſing upon, and aſſiſtance in your ſtudyes, prayer was one of <hi>Luthers</hi> maiſters, and it was but reaſon that the prieſt ſhould <hi>firſt offer up ſacrifice for his own ſins, and then for the ſinns of the people, Hebbr:</hi> 7.27. firſt ſeek God for themſelves, and then make interceſſion for others.</p>
+            <p>But now by the way, ſome may object, here the Example of the <hi>Nazarites</hi> that they nouriſhed their hair, <hi>they were not to ſuffer any raiſor to come upon their heads, dureng the time of their ſeparation, Numb:</hi> 6, 5. here is a fair plea for ſtudents, and miniſters to wear long hair.</p>
+            <p>
+               <hi>Anſw,</hi> Becauſe that this objection comes fair and full in my way give me leave to anſwer this objection, there is ſome need of it, and take it thus.</p>
+            <p n="1">1. The Nazarites <hi>had a special Commandement from God</hi> to nouriſh their hair, they were not to ſuffer any raſor to come upon their heads, untill their vow was accompliſhed, and then they were to cut it off. <hi>Numb.</hi> 6.18. But now all chriſtians have a contrary Commandement 1 <hi>Cor:</hi> 11.14. <hi>Doth not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſelf teach you &amp;c:</hi> it is againſt the law &amp; dark princples of nature, much more a<g ref="char:EOLhyphen"/>gainſt grace &amp; the word of grace, <hi>yea it is a ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame
+<pb n="25" facs="tcp:60819:15"/> (if perſons be not quite past ſhame)</hi> for men to weare long hair: here is a wide difference between the old <hi>Nazarites</hi> and ſtudents now.</p>
+            <p n="2">2. The <hi>Nazarites</hi> did nouriſh their hair out of obedience unto God and holy devotion, wheras perſons in theſe dayes do it out of pride, vain-glory effeminacy, and the like ſinfull motives, and for ſiniſter ends.</p>
+            <p n="3">3. They only amongſt the people of God did nouriſh it, &amp; none elſe therefore this example doth evidently prove that all the reſt of Gods people in the old Teſtament yea the Prieſts and Levites did not nouriſh their haire, ſo Chriſtians are now to cut their hair unleſs they can find any where (which was never yet found) that the Commandement of the Lord hath allowed it.</p>
+            <p n="4">4. The <hi>Nazarites were to nouriſh all their hair alike,</hi> they were not to cut off ſome part, and to leave long locks hanging down, as is practiſed by ſome now a dayes.</p>
+            <p n="5">5. The <hi>Nazarites were to nouriſh their hair to burn it,</hi> Numb: 6.18. But ſtudents &amp; miniſters &amp; profeſſours in theſe dayes nouriſh their hair to keep them from all deminution, it were much better they were burnt.</p>
+            <p n="6">6. The Nazarites nouriſhing of their hair was to <hi>difference them from the common ſort:</hi> but now the nouriſhing of the hair, is to hold correſponden<g ref="char:EOLhyphen"/>cy with ruffains &amp; ſwaggerers &amp; ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, yea the
+<pb facs="tcp:60819:16"/> vileſt perſons in the country, yea Indians &amp; pagans whoſe abominable cuſtoms the Lord hath forbid<g ref="char:EOLhyphen"/>den his people to follow, <hi>Levit.</hi> 18.30.</p>
+            <p>
+               <hi>Object.</hi> It is true that the Lord hath forbid<g ref="char:EOLhyphen"/>den unto men long hair, but what is long hair? can any man preſcribe out of the word of God any ſet ſize for mens hair? if this cannot be done, why ſhould any be offe<g ref="char:cmbAbbrStroke">̄</g>ded at our hair as if it were long This objection hath been made by ſome, and gene<g ref="char:EOLhyphen"/>rally ſtood upon, therefore it is a fit ſeaſon to give ſome anſwer to it</p>
+            <p>
+               <hi>Anſw:</hi> 1. This is moſt cleer that long hair (if menkind do wear it) is contrary to the word of God, &amp; to nature, &amp; ſhamefull as was ſaid before.</p>
+            <p n="2">2. It is no ſmall reproach to the Lord aad his word, to find fault with long hair, and yet that he ſhould not give us to underſtand which is long hair but that every man ſtill is left to his liberty, to wear his hair as long as he liſts; this makes the Trumpet to give an u<g ref="char:cmbAbbrStroke">̄</g>certain ſound which the Lord approves not.</p>
+            <p n="3">3. That he that would keep a good conſcience in ſuch caſes &amp; controverſies, wherin there appears any doubt, will make choiſe of the ſurer part, that is that part wherin he may be ſure not to ſin againſt the Lord: ſo will be do in this caſe about the length of hair, ſhort hair we may be ſure will neither offend God nor good men, but long hair may and doth offend be the therefore be ſure that God do
+<pb n="27" facs="tcp:60819:16"/> not account thy hair long.</p>
+            <p n="4">4. Chriſtians are bound to <hi>abſtain from all ap<g ref="char:EOLhyphen"/>pearance of evill.</hi> 1 Theſ. 5.22.</p>
+            <p n="5">5. Chriſtians are to do <hi>whatſoever is of good re<g ref="char:EOLhyphen"/>port</hi> Phil. 4.8. But long hair in menkind hath great <hi>appearance of evill,</hi> and is of <hi>evill report.</hi>
+            </p>
+            <p n="6">6. All occaſions of ſin, as <hi>luſt, pride, enſnaring our ſelves &amp; others,</hi> ſhould be avoided by chriſtia<g ref="char:cmbAbbrStroke">̄</g>s Jude 23. But ſuch is wearing of looks &amp;c:</p>
+            <p n="7">7. Chriſtians ſhould <hi>give no offence to others,</hi> 1 <hi>Cor.</hi> 10. But this long hair <hi>gives offence,</hi> 1. As <hi>giving an ill example to others,</hi> who are often in<g ref="char:EOLhyphen"/>duced by their ill preſident &amp; example to imitate &amp; ſecond them in their guiſe. Hence it is that ma<g ref="char:EOLhyphen"/>ny even children will not indure their hair to bee cut ſhort, becauſe that ſuch &amp; ſuch profeſſours do wear it long. 2. It <hi>anima<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es &amp; confirms others,</hi> eſpecially profane ones, in their fantaſtick dreſs, and nouriſhing of their hair. 3. It <hi>offends and grieves the ſoules of many devout, religious and grac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ous Chriſtians,</hi> who do utterly diſaprove it &amp; condemn it in their judgments, as well as p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ctiſes.</p>
+            <p n="8">8. The Scripture ſeems plainly to preſcribe un<g ref="char:EOLhyphen"/>to men the length of their hair, <hi>Ezek</hi> 44.20. com<g ref="char:EOLhyphen"/>pared with <hi>Lev.</hi> 19.27. &amp; 21.5. <hi>They ſhall neither ſhare their heads, nor ſuffer t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n looks <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> grow long, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey only ſhall poll their hea<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> now every one underſta<g ref="char:cmbAbbrStroke">̄</g>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what is meant by polling of the head, it ſignifies <hi>the cutting of the h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſhort &amp; <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>,</hi> and to n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>riſh
+<pb n="28" facs="tcp:60819:17"/> any part therof is contrary therunto and to the word of God. But leſt I ſhould digreſs too farr, thus I finiſh this uſe. Take heed of that fear<g ref="char:EOLhyphen"/>full threatning <hi>Pſal.</hi> 68.21. <hi>God ſhall wound the hairy ſcalp o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch a one as goes on ſtill in his wick<g ref="char:EOLhyphen"/>edneſs.</hi> It is likely that there were ſome ſuch hairy wicked ſcalps &amp; pates in thoſe dayes, as there are in theſe dayes. But conſider that God in his due time will wound them.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 3. This may ſerve <hi>to work thankefulneſs in parents, and in all ſorts of people<g ref="char:punc">▪</g>
+               </hi> eſpecially in New England, ſeeing that the Lord hath beſtowed or offered theſe mercyes to us all: he hath <hi>rayſed up of our ſonns for Prophets,</hi> that concerns parents, ſome parents more neerly; and he hath <hi>rayſed up of our young men for Nazarites,</hi> that concerns all and all have or may have the benefit of it: For beſides the Lords former mercyes, in ſending in to us the old ſtock of faithfull miniſters, and thruſting out of his labourers into this vineyard, (by the bleſ<g ref="char:EOLhyphen"/>ſing of God upon whoſe laboures, the Goſpel of Chriſt, and the powerful diſpenſation of Gods Or<g ref="char:EOLhyphen"/>dinances hath flouriſhed many yeares, to the ad<g ref="char:EOLhyphen"/>miration of all the chriſtian world) I ſay beſides thoſe former mercyes never to be forgotten, the Lord hath graciouſly ſuper-added this, in <hi>rayſing <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p not only <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ns for this end (viz.</hi> ſchools of learn<g ref="char:EOLhyphen"/>ing) but alſo from thence <hi>ſome of our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons &amp; young m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> p<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g> &amp; Nazarites.</hi> Is it not ſo O ye
+<pb n="29" facs="tcp:60819:17"/> people of God in N-England? And if it be ſo, ſee what the Lord expects at our hands in anſwerable returns of thankfulnes unto him, and let us weigh ſeriouſly theſe motives to ſuch thankfulneſs.</p>
+            <p n="1">1. Let us conſider <hi>what benefit and comfort all ſorts have by <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> when as our <hi>ſonns &amp; young men</hi> are not only indued with <hi>the ſeed of knowledg &amp; grace,</hi> but ſuch as are ſent forth as ſeedsmen <hi>to ſow the Lords good ſeed</hi> in the hearts of others, it was the Lords bleſſing of Rachel, &amp; Leah, <hi>that they two built up the houſe of Iſrael,</hi> that is the Church of God by their poſterity, for ſons to build up our own houſes to be <hi>Banim &amp; Builders</hi> thus according to their name is a great bleſſing, but farr greater, that they are <hi>builders up of Gods Church &amp; houſe,</hi> Pſal. 144.12, 15. It is <hi>an happineſs</hi> for Gods people <hi>when they are in ſuch a caſe that their ſonns are as plants grown up in their youth.</hi> But much rather <hi>to have the Lord for their God,</hi> and means to procure &amp; continue ſo Is it not ſo O ye people of God in N-England?</p>
+            <p n="2">2. Conſider <hi>the state of the Country where wee live,</hi> which is ſuch, that now the old ſtock of the country is well nigh worn out, and there is no like<g ref="char:EOLhyphen"/>lyhood of further ſupply that way: now ye know how Gods people are faſtned here, that if there ſhould not be ſome ſupply by ſchools of learning, Gods people would ſoon be left <hi>without a teaching miniſtry &amp;c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> as 2 <hi>Chron.</hi> 15.2. Is it not ſo O ye people of N-England?</p>
+            <pb n="30" facs="tcp:60819:18"/>
+            <p>
+               <hi>Object:</hi> But may we not be ſufficiently ſupply<g ref="char:EOLhyphen"/>ed from among our ſelves by the gifts and indow<g ref="char:EOLhyphen"/>ments of gifted brethren?</p>
+            <p>
+               <hi>Anſw.</hi> I could wiſh as Moſes, <hi>that all Gods people were Prophets:</hi> But you ſhall find it here, as in other trades, that there is a great difference be<g ref="char:EOLhyphen"/>tween thoſe that have been bound apprentices to a trade and others that are handy, &amp; have gotten a litle ſkill by the obſervation of others, this latter will ſerve to patch or bungle, but wiſe men will ra<g ref="char:EOLhyphen"/>ther chooſe to deal with thoſe that have been train<g ref="char:EOLhyphen"/>ed up in ſuch a courſe: Thus from perſons edu<g ref="char:EOLhyphen"/>cated in good literature we may rather expect that they ſhould be <hi>w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rkmen <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at need not to be aſhamed &amp;c:</hi> as Paul ſpeaks to Tim: <hi>Iſay</hi> 50.4 they that have had <hi>an ear to hear as the learned,</hi> and the Lord hath given them <hi>the tongue of the learned,</hi> are moſt likely <hi>a ſpeak a word in due ſeaſon to him that is weary &amp;c:</hi>
+            </p>
+            <p n="3">3. Conſider <hi>what helps diverſe particular Church<g ref="char:EOLhyphen"/>es have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> from theſe ſchools, in greivous breach<g ref="char:EOLhyphen"/>es that have been made in them, when any of the precious ſervants of God have been taken away, from hence others have ſtood up in their ſteads &amp; have made up the breaches comfortably, as it was ſomet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes ſaid in the like caſe, <hi>that the Sunn hath ſet and y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> no n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> followed.</hi> Is it not ſo O ye child<g ref="char:EOLhyphen"/>ren of my people?</p>
+            <p n="4">4. Conſider <hi>that this makes for the continuance
+<pb n="31" facs="tcp:60819:18"/> of the Church &amp; propagation of religion, to after ages,</hi> for this was alwayes found true, that <hi>where the viſion failes, there t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ple w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll be made naked</hi> Pro. 29.18. they will be naked Congregations, and naked ſouls, and naked familyes, and naked poſterities; naked of what? naked of the righteouſneſs of Chriſt w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich is <hi>put on by faith, and comes by hearing,</hi> and the ſhame of this nakedneſs will appear to God &amp; man: naked of the <hi>Chriſtian armour to defend themſelves from spirituall enemyes;</hi> and where ſchools have been put down or ceaſed, there church<g ref="char:EOLunhyphen"/>es have been unprovided, and religion hath decayed and great ignorance &amp; errours have ſucceeded in after a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es: but on the contrary this courſe of the inſtruction of youth, is the meanes to provide for preſent &amp; future times: and why do men plant or<g ref="char:EOLhyphen"/>chards, or preſerve the breed of the beſt cattle? but to provide for future times: but is not the pure re<g ref="char:EOLhyphen"/>ligion of more weight, and the providing for the ſoules of poſterityes to the worlds end? this is an other benefit of worth: is it not ſo beloved &amp;c:</p>
+            <p n="4">4. Let the <hi>Seperation</hi> conſider this, ſome of whom are averſe to ſchools of learning: that ſchools are available <hi>to rayſe up Nazarites &amp; to further an holy ſeperation:</hi> which is commanded unto chriſti<g ref="char:EOLhyphen"/>ans, 2 <hi>Cor</hi> 6.16. is it not ſo beloved &amp;c:</p>
+            <p>Conſider how <hi>the ſons of Behal, papiſts and hereticks,</hi> they <hi>compaſs ſea and land</hi> to ſupport and ſpread &amp; fortifie <hi>the Synogogues of Satan,</hi> the<pb n="32" facs="tcp:60819:19"/> 
+               <hi>dens of devils, &amp; ſuburbs of hell?</hi> ſhould not the glory of God and the ſalvation of ſouls be deerer unto us, then their deſtruction &amp; condemnation is to them? all theſe things ſhould forward our thankfulneſs to God for theſe mercys.</p>
+            <p>But now it is not a verball thankfulneſs that will ſerve our turn, (that would be groſs hypocriſie) but it muſt be really expreſſed, towards the education of youth, &amp; the incouragement of the miniſtry, and the propagatio<g ref="char:cmbAbbrStroke">̄</g> of the Goſpel.</p>
+            <p>The reality of your thankfulneſs let it be ex<g ref="char:EOLhyphen"/>preſſed in your future care.</p>
+            <p n="1">1. To do (if it be in your power) as <hi>Hezeki<g ref="char:EOLhyphen"/>ah did</hi> 2 Chron: 30.22. <hi>that ſpake to the heart of all the Levites, that taught the good knowledg of the Lord</hi> Yea do as <hi>Nehemiah</hi> did <hi>chap:</hi> 13.11. <hi>See that ſufficient portions be allotted &amp; contributed unto them.</hi>
+            </p>
+            <p n="2">2. Do as <hi>Jehoſhaphat</hi> did 2 <hi>Chron.</hi> 19.8. <hi>reach forth thine hand to ſend Levites</hi> into the blind and dark places of the country.</p>
+            <p n="3">3. Be at the coſt <hi>to trayn up thy towardly child<g ref="char:EOLhyphen"/>ren in good literature:</hi> parents are commanded to <hi>trayn up their children Epheſ.</hi> 6.4. <hi>in putting under<g ref="char:EOLhyphen"/>ſtanding &amp; inſtruction</hi> into them: as if children were like bruit beaſts without it.</p>
+            <p n="4">4. In <hi>relieving the ſons of the Pr p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ets.</hi> and the <hi>Colledg,</hi> as <hi>Fl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h did</hi> 1 Kings 4.34. In ſetting up of free ſchools, as the Lord inables you.</p>
+            <p n="5">5. If ye be poor, yet <hi>pray for poſterity</hi> and
+<pb n="33" facs="tcp:60819:19"/> means of education, and <hi>pray for the peace of Je<g ref="char:EOLhyphen"/>ruſalem;</hi> and that <hi>Bethel,</hi> the houſe of God may not be turned into <hi>Bethaven</hi> the houſe of iniquity, that ſchools of learning be not poyſoned, or the fountains corrupted.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 4. This point may ſerve for Information. To teach us, that Schools of learning are approved and appointed of God, and of great importance for the benefit of Gods people: Seeing that the Lord works with, &amp; bleſſeth this means, for the laying up of proviſion, &amp; making of ſupplys for the work of the miniſtry; and the Lord here reckons it up as the chiefeſt of all the bleſſings mentioned: and this was always one way (even when there were extra<g ref="char:EOLhyphen"/>ordinary Prophets of raiſing up of Prophets &amp;c: And there is much more need of ſchools now, when thoſe extrardinary Prophets are wanting.</p>
+            <p>
+               <hi>Queſt:</hi> What ground is there in the Scriptures, for Schools of learning?</p>
+            <p>
+               <hi>Anſw:</hi> Give me leave to ſhew this as a matter called by many into queſtion in theſe dayes.</p>
+            <p>Now the Text, and the explication thereof before ſhewes that the Lord did approve of them in the dayes of the old Teſtament, that is the intent of the frequent mentioning of the ſonns of the Prophets, that is their ſchollers that were trained up under them: beſides 2 <hi>K<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngs</hi> 22.14. T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere is mention of a Colledg (where <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Propheteſs, and no doubt many others nurtured in a way of learning
+<pb n="34" facs="tcp:60819:20"/> lived,) and the Hebrews have an uſuall word where by they call their ſchools <hi>(ieſhibah)</hi> a company of ſchollers that ſit together to be taught: &amp; <hi>Mal.</hi> 2.12. the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſter &amp; ſcholler</hi> is made mention of; Now in the New Teſtament <hi>John Baptiſt</hi> had ſchollers <hi>John</hi> 1.28. ſo the Phariſes had their ſchollers <hi>Mat.</hi> 22.15, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6. Paul was Gamaliels ſcholler <hi>Acts</hi> 22.3 There was a Synogogue of learned men diſputing with <hi>Stephen Act.</hi> 6.9. So there was a ſchoole at <hi>Corinth A&amp;s</hi> 19.8. Timothy was Pauls ſcholler, 2 <hi>Tim.</hi> 3.14. But the example of our Saviour Chriſt is above all, that kept a ſchool, firſt of his twelve d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſciples, then of the ſeaventy diſciples <hi>Luke</hi> 10. that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e alſo ſent forth to preach the Goſpel. Yea there is a moſt cleer and expreſs Commandement, that Paul gives to Timothy 2 <hi>Tim:</hi> 2.2. he ſaith <hi>the things that thou hast heard of me before many witneſſes, he ſame commit to faithfull men, who ſhall be able to teach others alſo.</hi> Where we ſee that Ti<g ref="char:EOLhyphen"/>mothy had many ſchool fellows that are called wit<g ref="char:EOLhyphen"/>neſses, and alſo that Timothy is co<g ref="char:cmbAbbrStroke">̄</g>manded to teach others, ſo it concerns ſuch as God enables to teach them that may be teachers of others, to inſtruct them in the things of God.</p>
+            <p>But now it will be very needfull upon this occaſion for u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to conſider what weight there is in the objections that diverſe in theſe days have print<g ref="char:EOLhyphen"/>ed againſt them.</p>
+            <p>
+               <hi>Object.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Mr. Dell in his anſwer to <hi>Mr.
+<pb n="35" facs="tcp:60819:20"/> S. Simpſon</hi> allowes ſchooles of the prophets wherin Chriſtian religion is taught, <hi>but againſt ſchooles of humane learning this is that that makes them Anti<g ref="char:EOLhyphen"/>chriſts, ſeeing they are contrary to, and do oppoſe Chriſt, this makes the univerſityes stews of Anti<g ref="char:EOLhyphen"/>chriſt, houſes of lyes, and to ſtinke before God with moſt loathſome abomination &amp;c:</hi> with a multitude of other reproachfull terms which Luther &amp; others have loaded Popiſh Univerſityes withall.</p>
+            <p>
+               <hi>Anſw.</hi> 1. I do much deſire that the oppo<g ref="char:EOLhyphen"/>ſers of ſchools &amp; univerſityes would ſpeak <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lainly what they mean by humane learning, then wee ſhould eaſily come to ſome concluſion. Therfore let this diſtinction be premiſed, that humane learn<g ref="char:EOLhyphen"/>ing may either be taken for all that learning that the heathen Authours or philoſophers have deliver<g ref="char:EOLhyphen"/>ed in their writings: or elſe all other Arts beſides Theology, as they call <hi>phyſicks, ethicks, politicks</hi> &amp;c: take in alſo the grounds of languages, <hi>Latine Greek &amp; Hebrew.</hi> Now in the former ſenſe, if <hi>Mr. D.</hi> do mean by humane learning, all that learning that the heathen men have uttered out of the light of nature: It will be a great overſight to paſs ſuch a ſentence upon it. 1. Becauſe we find in Scriptures, ſome teſtimonies out of humane writers, as <hi>Tit:</hi> 1.12. <hi>Acts</hi> 17.28. 1 <hi>Cor:</hi> 15.33. &amp;c: which the Spirit of God would not have al<g ref="char:EOLhyphen"/>ledged, if their writings had been utterly unlawfull to read. 2. There are certain principles of
+<pb n="36" facs="tcp:60819:21"/> trueth written, even in corrupt nature, which hea<g ref="char:EOLhyphen"/>then authors have delivered unto us, that doe not croſs the holy writ, 1 <hi>Cor:</hi> 11.14. <hi>doth not nature it ſelf teach you &amp;c:</hi> and it cannot be denyed that all trueth, whoſoever it be that ſpeakes it, comes from the God of truth, as he is called ſeverall times And who can deny but that there are found many excellent &amp; divine morall truths in <hi>Plato, Ariſtotle Plutarch, Seneca &amp;c:</hi> and to condemn all pel-mel, will be an hard cenſure, eſpecially to call univerſi<g ref="char:EOLhyphen"/>ties Antichriſts for reading of them. Beſides they have treated of the works of God, moſt excel<g ref="char:EOLhyphen"/>lently in many places, and the works of God ought to be <hi>declared by parents to their children,</hi> Pſal. 78.2-6. Beſides they have delivered many excel<g ref="char:EOLhyphen"/>lent ſayings of God, and have atteſted many Scrip<g ref="char:EOLhyphen"/>ture hiſtoryes, as might be ſhewed by ſeverall in<g ref="char:EOLhyphen"/>ſtances, out of <hi>Juſtine, Tacitus &amp;c:</hi> and <hi>Mr. D.</hi> is not ignorant of them, ſhall all theſe be thrown away as antichriſtian, or as lyes?</p>
+            <p>
+               <hi>Object.</hi> But they have much profaneſs and filthineſs in them, and beſides they are made idolls of in our univerſities, when as <hi>ipſe dixit,</hi> and their authority goeth for currant, as Scripture it ſelf a<g ref="char:EOLhyphen"/>mongſt them.</p>
+            <p>
+               <hi>Anſw.</hi> But 1. All heatheniſh writers, have not ſuch profaneſs in them. 2. Thoſe that have, let them be condemned &amp; abhored, &amp; let not youth be poyſoned by them. 3. Let God be true &amp;
+<pb n="37" facs="tcp:60819:21"/> every man a lyer, and let not man, eſpecially any heathen be deified, or his authority be accounted on, or go cheek by jowle with the ſpeaking in the Scriptures: this is indeed to be abhored wherſoever it is received, but <hi>abuſus non tollit uſum.</hi>
+            </p>
+            <p n="2">II. But now if humane learning be taken in the ſecond ſenſe, for all thoſe Arts that are commonly taught in Univerſities, as <hi>Phyſicks, Eth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cks, Politicks Oeconomicks, Rhetorick, Aſtronomy &amp;c:</hi> or alſo for learned tongues of <hi>Latine, Greek, and Hebrew &amp;c:</hi>
+            </p>
+            <p n="1">1. I will be bold to affirm, that theſe in the true ſenſe and right meaning therof are Theologicall &amp; Scripture learning, and are not to be accounted of as humane learning. For who can deny, that the firſt &amp; ſecond chapters of <hi>Geneſis,</hi> and many chap<g ref="char:EOLhyphen"/>ters in <hi>Job,</hi> and the <hi>Pſalms,</hi> and diverſe other pla<g ref="char:EOLhyphen"/>ces of holy Scripture, do afford excellent and ſure grounds for natural Philoſophy, and a juſt ſyſteme thereof: which <hi>Mr. Zanchy, Daneus,</hi> and di<g ref="char:EOLhyphen"/>verſe other eminent Divines have opened &amp; de<g ref="char:EOLhyphen"/>clared unto us? And where are there to be found ſuch <hi>Ethicall, Politicall,</hi> or <hi>Morall</hi> precepts, as are to be found in holy Scriptures? or ſuch princi<g ref="char:EOLhyphen"/>ples for the ordering of our lifes, families, or com<g ref="char:EOLhyphen"/>mon weals? let any man declare it unto us. And where are there ſuch high ſtraines of all ſorts of <hi>Rhetoricall Tropes, &amp; figures,</hi> to be found in any Author, as there are in the writings of the <hi>Prophets &amp; Apoſtles:</hi> and who can imagine, but that the
+<pb n="38" facs="tcp:60819:22"/> beſt &amp; ſureſt Chronology in the world, is to bee found in holy Scriptures, upon which all the com<g ref="char:EOLhyphen"/>putation of ti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es in all ages in the world depends?</p>
+            <p n="2">2. Let all judicious men conſider, what <hi>Mr. Dell</hi> graunts, though he ſpeakes ſo much againſt humane learning: I will relate his own words, be<g ref="char:EOLhyphen"/>cauſe his books are in few bands, &amp; they that have them build much upon his judgment. He ſpeaks thus in his treatiſe of the reformation of learning.</p>
+            <p n="1">1. <hi>I conceive it meet, that the Civill power, or chief Magiſtrate, ſhould take great care of the edu<g ref="char:EOLhyphen"/>cation of youth, as one of the greateſt works that con<g ref="char:EOLhyphen"/>cerns them, and one of the worthyeſt things they can do in the world, inſomuch, that what the youth now is the whole Common wealth will ſhortly be.</hi>
+            </p>
+            <p n="2">2. <hi>To this end it is meet, that Schools (if want<g ref="char:EOLhyphen"/>ing) be Erected through the whole nation, and not only in Citties &amp; great Towns, but alſo (as much as may be) in leſser villages: and the Authority of the Nation take great care, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> godly men especially have the charge of greater ſchools, And that the Magiſtrate <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fford to this work ſuitable incouragement.</hi>
+            </p>
+            <p n="3">3. <hi>That in Cittyes &amp; greater Towns, where are the greater ſchools, and greater opportunities to ſend children to them, they teach them alſo, the Latine &amp; G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eek tongues, &amp; Hebrew alſo which ought to be had in g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eat account w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th us, for the old Teſtament ſake.</hi>
+            </p>
+            <p n="4">4. <hi>It may be <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ment alſo, that there be ſome <g ref="char:V">Ʋ</g>n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s &amp; Colle <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, for instruc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing in the know<g ref="char:EOLunhyphen"/>ledg
+<pb n="39" facs="tcp:60819:22"/> of the liberall Arts, beyond Grammer &amp; Rhe<g ref="char:EOLhyphen"/>torick; as in Logick, which may be of good uſe in humane things, if reaſon manage that art of reaſon But the Mathematicks eſpecially are to be had in good esteem in <g ref="char:V">Ʋ</g>niverſities, as Arithmetick, Geometry, Geography and the like, which as they carry no wick<g ref="char:EOLhyphen"/>edneſs in them; ſo are they beſides very uſefull in hu<g ref="char:EOLhyphen"/>mane Societies, and the affaires of this preſent life: There may be alſo in theſe <g ref="char:V">Ʋ</g>niverſities &amp; Colledges, allowed the studyes of Phyſick, &amp; the Law &amp;c:</hi>
+            </p>
+            <p n="5">5. <hi>Why the <g ref="char:V">Ʋ</g>niverſities &amp; Colledges ſhould bee only at Cambridg &amp; Oxeford, I know no reaſon: and we judg it moſt prejudiciall to the common good of the Common-wealth, that theſe two <g ref="char:V">Ʋ</g>niverſities ſhould make a monopoly of humane learning to themſelves. Doubtleſs it would be more ſuitable to a Common<g ref="char:EOLhyphen"/>wealth, and more advantagious to the good of all the people, to have <g ref="char:V">Ʋ</g>niverſities or Colledges, one at the least in every great Town, or Citty in the Nation, as in London, York, Bristow, Exceter, Norwich &amp; the like: And for the State to allow to theſe Colledges an honeſt &amp; competent maintenance, for ſome godly and learned men to teach the Tongues &amp; Arts under a due reformation.</hi> Thus much <hi>Mr. Dell.</hi>
+            </p>
+            <p>By all which it appears, that multitudes are deceived concerning this, as if <hi>Mr. D.</hi> did utter<g ref="char:EOLhyphen"/>ly condemn Univerſities or ſchools of learning, or that which is called humane learning, ſeeing that there is no art or tongue ſtudyed or taught in Col<g ref="char:EOLhyphen"/>ledges,
+<pb n="40" facs="tcp:60819:23"/> but he allowes (though with caution) and alſo he deſires there were more ſchools, Colledges &amp; Univerſities then there are. Briefly <hi>Mr. Dells</hi> project is th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and ſo farr to be allowed, to put down heatheniſh ſchools (where there be any ſuch) and to erect chriſtian, as himſelf ſpeaks <hi>page</hi> 19. in his anſwer to <hi>Mr. S mpſon.</hi>
+            </p>
+            <p>Object: <hi>But there is no neceſſity of Schools or <g ref="char:V">Ʋ</g>niverſityes, or any humane learning to teach men Divinity, or to make able preachers of the Gospell: the teaching of the Spirit of God alone is ſufficient: which Mr. Dell proves by the examples of our Saviour Christ &amp; his Apoſtles, ſeeing Christ himſelf had only the unction of the Spirit.</hi> Iſay 61.1-4. Luke 4. Mat: 13.54, 55. <hi>Beſides when he would ſend forth pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>chers i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to all the world, he choſe Fiſhermen, Publican, Tent makers, plain men, and of ordinary imployment in the world, and only put his Spirit upon them</hi> Acts 2.17. <hi>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s argument is much stood upon by</hi> Mr. Horne, <hi>&amp;</hi> Mr. Crandon <hi>against</hi> M. B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xter.</p>
+            <p>
+               <hi>Anſw.</hi> 1. It is a mervellous miſtake to rea<g ref="char:EOLhyphen"/>ſon from our Saviour Chriſt &amp; his Apoſtles to theſe times: For our Saviour received the Spirit not by meaſure <hi>John</hi> 3.24. and the Apoſtles had the miraculous &amp; viſible &amp; extraordinary gifts of the Spirit beſtowed on them Acts 2. So the reaſon will ſtand thus. If our Saviour Chriſt and his A<g ref="char:EOLhyphen"/>poſtles, without other learning, by the miraculous
+<pb n="41" facs="tcp:60819:23"/> and extraordinary gifts of the Spirit, were enabled and furniſhed ſufficiently for the miniſtry; Then other miniſters in after times (that have no ſuch extraordinary gi ts) need no other learning, but the unction of the Spirit, as if he ſhould ſay, if Aholiab &amp; Bezaleel were filled with the Spirit of God in wiſdom, and in knowledg, and all manner of workmanſhip, to deviſe cunning works, (as they were <hi>Exod.</hi> 31.3, 4.) then no man need to be an apprentice to learn any Mechanicall trade, ſeeing the teaching of the Spir t is ſufficient for any cunning work, w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o is there that would not ac<g ref="char:EOLhyphen"/>count this reaſoning ridiculous? Surely if Mr. D. had not excluded Logick &amp; reaſon out of Divinity he would neuer have made ſuch collections: It is much like his reaſoning in an other Sermon of his, the Scripture ſaith that Chriſt ſhall Baptiſe with the holy Ghoſt, &amp; with fire, therfore there is no baptiſm with water to be uſed, or to be in force. But forſooth what ever he ſaith, ye muſt expect no reaſon from him, ye muſt take all from him as dictates of the Spirit, and ſo all Ordinances in the Church that the Spirit hath appointed, the Spirit ſhall alſo overthrow, yea I know no reaſon why Mr. Dell, or any other believer, upon this ground, may not make an other Scripture, for if the ſame Spirit that indighted or penned the Scrip<g ref="char:EOLhyphen"/>ture, be in the ſame or the like meaſure in M. Dell or other believers, as it was in the holy men of God
+<pb n="42" facs="tcp:60819:24"/> and penmen of the Scripture, then what Mr. D. and any other believers write or ſay, is of equall authority with the Canonicall Scriptures. So M. Dell and every believer is made a Pope, that can not erre &amp;c: but here I will ſtop &amp; ſpare.</p>
+            <p n="2">2. I affirm, that the Lord Jeſus and his A<g ref="char:EOLhyphen"/>poſtles were learned, and beyond that which is attainable by ordinary teaching: For our Saviour it is ſaid <hi>Mat:</hi> 13.54, 55. <hi>Jeſus came into his own country &amp; taught them in the Synagogue, inſomuch that they were aſtoniſhed, and ſaid, whence hath this man this wiſdom?</hi> and John 7.15. <hi>The Iewes mar<g ref="char:EOLhyphen"/>vielled at the teaching of our Saviour, ſaying, how knoweth this man letters (or learning,) having never learned them?</hi> therfore it is certain that our Savi<g ref="char:EOLhyphen"/>our had learning, though never trained up therin: and alſo that learning or teaching, is the ordinary way to attain to learning, yea ſuch learning as our Saviour manifeſted in his miniſtry, (as the Jewes conceived) So I may ſay of the Apoſtles, though in a farr inferiour degree: For with that effuſion of the Spirit at Penticoſt, they had the gifts of tongus the gifts of miracles, of diſcerning of Spirits, yea the gifts of wiſdom &amp; knowledg, (the Paſtours and Teachers gifts) mentioned 1 Cor: 12, and alſo 1 Cor: 14 But w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll any man ſay that believers now have any ſuch gifts of the Spirit, or any pro<g ref="char:EOLhyphen"/>mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e therof? <hi>Mr. D</hi> in his anſwer to <hi>Mr. S mpſon page</hi> 3. te<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us of many promiſes of the Spirit to
+<pb n="43" facs="tcp:60819:24"/> believers 1 Cor: 12.13. Gal. 4.6, 7. whence hee gathers, that the whole Church of believers, and every true member therof, do receive the Spirit of God. And who will deny that they do receive it, <hi>to cry Abba father, to change, ſanctifie &amp; comfort their hearts:</hi> but there is more then theſe required to make an able miniſter, Gods miniſters muſt <hi>rightly divide the word of trueth</hi> 2 Tim: 2.15. <hi>muſt be apt to teach.</hi> 1 Tim: 3.2. <hi>muſt be able by ſound doctrine<g ref="char:punc">▪</g> both to exhort, to convince the gain<g ref="char:EOLhyphen"/>ſayers: They must have the tongue of the learned, that they may not be as thoſe unlearned ones that wreſt the Scriptures to their own &amp; others perdition.</hi> 2 Pet. 3.16. Now let any prudent man be judg in this caſe, whither he think that every chriſtian that hath received the ſanctifying Spirit of God, is gifted therby &amp; qualified for the confutation of gainſayers, and the whole work of the miniſtry.</p>
+            <p>Mr. Dell in his anſwer to Mr. Simpſon.</p>
+            <p>Object: <hi>Humane learning is rather an hinder<g ref="char:EOLhyphen"/>ance then an help to the miniſtry of the Gospel, and doth rather unfit, then fit men for it: and the grace and teaching of God only prepares &amp; enables men to this divine work: learning is ſo far from f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tting men for this Gospell, and the ministry therof, that indeed there is nothing in greater enmity to Chriſt crucified nor more contrary to the WORD of the CROSS then that: Yea nothing in all the world hath been ſuch <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> introducer, favourer, ſupporter &amp; indanger of An i<g ref="char:EOLhyphen"/>christs
+<pb n="44" facs="tcp:60819:25"/> kingdom, as humane learning &amp; Philoſophy: This hath brought in all the hypocriſie, ſuperſtition, falſe worſhip, ſects &amp; ſchiſmes &amp;c:</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It is to be feared that <hi>Mr. D.</hi> hath been tainted with humane learning, as in ſome o<g ref="char:EOLhyphen"/>ther of his opinions, ſo in writing of theſe things Let the reader remember what approbation hee gave to humane learning before, that he would have it taught, not only in Univerſities, but in all Citties &amp; v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llages: and yet he hath now ſo forgot himſelf, that though for humane &amp; civill ends, he did allow it, yet now he ſaith, <hi>that it is enmity to Chriſt crucified, and contrary to the word of the croſs &amp;c:</hi> wherin let the ind<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fferent reader obſerve with me a few particulars.</p>
+            <p n="1">1. If Mr. Dell had allowed the uſe of <hi>Logick</hi> in Divinity, how ſhould he have dared to have al<g ref="char:EOLhyphen"/>lowed any of theſe humane arts, or languages for any end whatſoever? Paul abhors that charge <hi>Rom:</hi> 3.8. <hi>Let us do evill that good may come of it,</hi> and their damnation is juſt that ſo reaſon. But <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. D.</hi> ſaith that for humane ends (as for the Common<g ref="char:EOLhyphen"/>wealths <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake) <hi>Schools, <g ref="char:V">Ʋ</g>niverſities, Colledges, Gram<g ref="char:EOLhyphen"/>mer, Logick, Phyſick, Law, Rhetorick, Arithmetick Geometry</hi> ſhould be ſet up in every Town &amp; Citty in the whole nation: which yet are no better then <hi>enmity to Chriſt crucified, and contrary to the word of the croſs, the greatest introdu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers, favourers, ſup<g ref="char:EOLhyphen"/>po<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>, and <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>gers, of an<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>chriſts k ngdom,</hi> which
+<pb n="45" facs="tcp:60819:25"/> have <hi>brought in all the hypocriſie, ſuperstition, falſe doctrine, falſe worſhip, ſects &amp; ſchiſmes,</hi> is not this to do evill, that good (ſome outward good to civil ſociety) may come of it? It is no matter how it fares in the mean time, with Chriſt, or Antichriſt, chriſtian or antichriſtian religion, it is no matter how much hypocriſie, or falſe doctrine, falſe wor<g ref="char:EOLhyphen"/>ſhip &amp;c: be ſet up therby, in every Citty or village in the whole nation, ſo that their humane ends be provided for: Is not this man think you, a good friend to Chriſt &amp; Antichriſt, to the Church and Common wealth? doth this doctrine come from the Spirit of God, or another ſpirit?</p>
+            <p n="2">2. Antichriſt himſelf &amp; his adherents, take in all the rabble of locuſts crawling out of the ſmoak of the bottomleſs pit, take in all the popiſh tyrants and all the devills in hell, (for theſe are all ſuch as are in the world) yet according to M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. Dells Divi<g ref="char:EOLhyphen"/>nity, were never ſuch <hi>introducers, or favourers &amp;c: of antichriſts kingdom,</hi> were never ſuch <hi>enemies to Christ crucified, or the word of his croſs,</hi> never brought in ſo much <hi>hypocriſie, ſuperſtition, falſe doctr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne, falſe worſhip &amp;c:</hi> as humane learning, &amp; yet how can he in any ſenſe, allow of any humane learning, or deſire more Univerſities or Colledges, would he have more Antichriſts, more Devills <hi>&amp;c:</hi> hath not that man laid aſide naturall Logick, and common ſenſe &amp; honeſty, and put off his forehead that writes thus?</p>
+            <p n="3">
+               <pb n="46" facs="tcp:60819:26"/>3. Wheras he ſaith that humane learning is ra<g ref="char:EOLhyphen"/>ther a hinderance, then an help to the miniſtry of the Goſpel, and to all chriſtianity; Let us conſider a little what truth there is in this aſſertion, to let paſs what I ſaid before.</p>
+            <p n="1">1. I will premiſe what <hi>Mr. Crandon, &amp; M. Horn</hi> do graunt, that were no friends to humane learning. <hi>Mr. H.</hi> graunts, <hi>ſome leſſer uſe fullneſs ſome ſciences may afford (to Divinity) as the</hi> Mathe<g ref="char:EOLhyphen"/>maticks <hi>to find out the bigneſs of the</hi> Ark, <hi>the mea<g ref="char:EOLhyphen"/>ſures of the</hi> Temple <hi>&amp;c: Aſtronomy to tell us what arcturus &amp; Orion, and Pleiades are; History and Chronology may ſeem to help to underſtand the paſ<g ref="char:EOLhyphen"/>ſages of the Monorchyes &amp; viſions in Daniel &amp;c:</hi> Thus Horn, but I ſhould have thought that ſo ſtrict a Divine would rather have ſcrupled the very name of <hi>arcturtus &amp; Orion,</hi> which to find out, he muſt find worſe humane learning, that is, that is hea<g ref="char:EOLhyphen"/>theniſh fables, which will tell of a <hi>beare</hi> and a <hi>beares tayl</hi> in heaven, where <hi>arctu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us</hi> ſtands, and the conſtellation of <hi>Orion</hi> brings in <hi>Iupiter, Nep<g ref="char:EOLhyphen"/>tune &amp; Mercury,</hi> how they did <hi>ex urina illum pro<g ref="char:EOLhyphen"/>creare.</hi> and that <hi>Diana</hi> for his valour in hunting, carried him up to heaven. To have theſe &amp; ſuch things brought into the tranſlatio<g ref="char:cmbAbbrStroke">̄</g>s of the Scripture, w uld ſtumble a godly heart that knows the mean<g ref="char:EOLhyphen"/>ing therof, as the raweſt piece of humane learning put in for Scripture, which Mr. H. ſwallowes.</p>
+            <p>Now let me add what <hi>Mr. Crandons</hi> judgment
+<pb n="47" facs="tcp:60819:26"/> is, he ſpeaks thus in his writings againſt Mr. Baxter. <hi>That Logicall, Phyloſophicall, and Meta<g ref="char:EOLhyphen"/>phyſicall argumentations</hi> (mark he puts in Metaphy<g ref="char:EOLhyphen"/>ſicks too, which many will not own for a diſtinct ſcience) <hi>in naturall, morall &amp; oeconomicall queſtions</hi> (and theſe do ſpread farr in Divinity, as hath been ſaid before) <hi>may be uſefull: yea Logick in its ſober and moderate uſe applyed as an inſtrument to aſſiſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the contexture &amp; retexture of Scriptures, to find out the ſenſe &amp; meaning therof: and farther as by joyn<g ref="char:EOLhyphen"/>ing of Goſpel poſitions together, it helpeth to elicite ſure &amp; ſound concluſions, may be profitably uſed in Evangelicall queſtions.</hi> Thus Mr. Cr. which croſ<g ref="char:EOLhyphen"/>ſeth Mr. Dells judgment. Let me add farther</p>
+            <p n="1">1. How ſhall a miniſter without the knowledg of the Original tongues, either tranſlate the Scrip<g ref="char:EOLunhyphen"/>tures, or when they are tranſlated, maintain them againſt the popiſh vulgar, or other diverſe falſe tranſlations, to be the infallible trueth of God? how ſhall he comfort a poor ſoul that ſaith he is a reprobate, and proves it out of 2 Cor: 13.5. Be<g ref="char:EOLhyphen"/>cauſe he knows not <hi>that Ieſus Chriſt is in him,</hi> if he knows not what <hi>adokimos</hi> means. I might make innumerable ſuch inſtances, but I ſpare.</p>
+            <p n="2">2. For Logick, let them tell me what a paro<g ref="char:EOLhyphen"/>logiſme is, <hi>Iam:</hi> 1.22. without ſome knowledg in Logick. what <hi>logicon gala</hi> means 1 <hi>Pet.</hi> 2.2. For <hi>log<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>con</hi> is no where uſed as it is tranſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted of the word) but <hi>Rom:</hi> 12.1. It is tranſlated reaſon<g ref="char:EOLhyphen"/>able,
+<pb n="48" facs="tcp:60819:27"/> and if there be Logical &amp; reaſonable milk in the Scripture, take away logick &amp; reaſon, and the milk will be turned, neither will it be <hi>adolon</hi> with out deceit. Yea how ſhall a man know when a Scripture is wreſted, or falſly applyed, or a falſe uſe is made of it, or a falſe conſequence is drawn out of it, or a true, without ſome principles of lo<g ref="char:EOLhyphen"/>gick, eſpecially to hold forth theſe things to others he muſt needs be a ſhamefull workman, and many times ridiculous, neither rightly apprehending, not dividing the word of trueth, that hath no knowledg how to interpret the Scr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pture.</p>
+            <p n="3">3. For Rhetorick, I would fain have the un<g ref="char:EOLhyphen"/>learned miniſter, or him that underſtands not rhe<g ref="char:EOLhyphen"/>torick, to give any tolerable ſenſe of theſe places of Scripture, and many the like (farther then they have been opened to them by the learned) <hi>Iohn</hi> 15 1. <hi>I am the true Vine &amp;c.</hi> John 1.29. <hi>Behold the Lamb of God.</hi> 1 Cor: 10.4. <hi>The Rock was Chriſt</hi> John 6.41. <hi>I am the bread that came down from heaven.</hi> John 10.7. <hi>I am the dore of the ſheep &amp;c:</hi> add theſe places. John 3.13. <hi>No man aſcends in to heaven, but he that came down from heaven &amp;c:</hi> 1 Iohn 3.16. <hi>Hereby perceive we the love of God, becauſe he laid down his life for us.</hi> Iohn 21 laſt. <hi>There be many things that Ieſus did, the which if they ſhould be written every one, I ſuppoſe that even the world it ſelfe could not containe the books that ſhould be written.</hi> and that Mat. 12.20. <hi>as Ionas
+<pb n="49" facs="tcp:60819:27"/> was three dayes &amp; three nights in the belly of the whale ſo ſhall the ſon of man be three dayes &amp; three nights in the heart of of the earth.</hi> I ſhould be endleſs if I ſhould enumerate, what might be gathered in this caſe. But I ſhall here have done with <hi>Mr. Dells arguments.</hi>
+            </p>
+            <p>There is ſomewhat more in <hi>Horn, &amp; Cran<g ref="char:EOLhyphen"/>don,</hi> which I ſhall be brief in, becauſe as they ſtate the queſtion I ſhould not contend with them.</p>
+            <p>Mr. Horn thus, <hi>That the ſtudy of Philoſophy (though lawfull to be known, and in ſome points uſe<g ref="char:EOLhyphen"/>full yet) is not neceſſary to the preachers or preach<g ref="char:EOLhyphen"/>ing of the Gospel, nor the key of knowledg, without which men cannot underſtand, or profitably hold forth the Trueths of Christ to others.</hi>
+            </p>
+            <p>It is not denyed, but what is neceſſary to ſalva<g ref="char:EOLhyphen"/>tion, may be both underſtood &amp; preached, with<g ref="char:EOLhyphen"/>out the help of Philoſophy, it is enough if it bee lawfull &amp; uſefull, <hi>(ad bene ormelius eſſe)</hi> which is graunted by him.</p>
+            <p>Now <hi>Mr. Cr.</hi> in his preface againſt <hi>Baxter,</hi> ſtates the queſtion thus. <hi>That humane learning is of no force to decide, judg, and conclude any thing in queſtions meerly evangelicall, ſuch as justification, and all other Gospel-graces, and priviledges.</hi> I ſup<g ref="char:EOLhyphen"/>poſe that <hi>Mr. Cr.</hi> ſhall neither have <hi>Mr. Baxter,</hi> nor any proteſtant writer his adverſary in that aſ<g ref="char:EOLhyphen"/>ſertion. He that ſhall ſay otherwiſe, ſhall make a Pope of humane learning, and an Idoll, or ſet up
+<pb n="50" facs="tcp:60819:28"/> man above God, But for all this, theſe Revere<g ref="char:cmbAbbrStroke">̄</g>d men bring arguments that goe as farr in over<g ref="char:EOLhyphen"/>throwing all humane learning, as <hi>Mr. Dell</hi> hath done. Let mee breifly ſee the ſtrength of them.</p>
+            <p>Horn. <hi>If Ph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>loſophy, Phyſicks &amp;c: had ocen needfull for furniſhing of men to the Gospel, then Chriſt our Saviour, who came to teach us the mind of God, and to ſet on foot the preaching of the Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pel, would have delivered thoſe ſciences unto us<g ref="char:punc">▪</g> at leaſt a more perfect form of them then the Philoſophers did or could: But he did not ſo &amp;c: therefore they are not needfull &amp;c:</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. Take the force of this reaſon a <hi>pari,</hi> thus if the knowledg of the <hi>Greek &amp; Latine</hi> languages, had been needfull for furniſhing men to the Goſpel in all ages, then Chriſt would have taught thoſe languages, and made <hi>Grammers</hi> for the learning of them, at leaſt in a more perfect f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rm then any <hi>G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ammarians</hi> did or could &amp;c: but he hath not done ſo, therefore &amp;c: would any wiſe man think this to be a good conſequence: yet the caſe is much alike; for both the Original tongues, and the arts &amp; ſciences are like prepara<g ref="char:EOLhyphen"/>tives fiting perſons to the preaching of the Goſpel, (for that is meant by furniſhing men to the Goſ<g ref="char:EOLhyphen"/>pel) But God is pleaſed to give to the ſons of men to be exerciſed with labour &amp; ſtudy, in this and other kinds <hi>Ecc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</hi> 1.13.</p>
+            <p n="2">2. Chriſt hath delivered to us thoſe ſciences (as
+<pb n="51" facs="tcp:60819:28"/> farr as is needfull) in a more perfect form, then any <hi>Philoſophe</hi> of old hath done, there was never ſuch a method of <hi>Phyſicks or naturall Philoſophy,</hi> as is ſet down in the order of the works of Crea<g ref="char:EOLhyphen"/>tion, nor ever ſuch a form of <hi>Ethicks, Politicks</hi> or <hi>Oeconomicks,</hi> as he hath delivered in the <hi>Deca<g ref="char:EOLhyphen"/>logue,</hi> and his own interpretation therof &amp;c:</p>
+            <p>Horn. <hi>The Arts &amp; Sciences are of a diverſe nature from the Goſpel: that being a revelation of Redemption, and way to Salvation for fallen man; Philoſophy but a purblind speculation about the na<g ref="char:EOLhyphen"/>ture of the creatures, and of God as he stands in re<g ref="char:EOLhyphen"/>lation of a Creatour &amp; governour of them &amp;c:</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. Not only Arts &amp; Sciences, but the Law, both <hi>Ceremonial, and Moral, &amp; Judicial</hi> are of diverſe nature from the Goſpel, as it is the revelation of Redemption &amp;c, Is all therefore ſuperfluous &amp;c: 2. Whatſoever is con<g ref="char:EOLhyphen"/>tained in holy Scripture, tends ſome way or other to the way of ſalvation for faln man, and to make <hi>the man of God perfect,</hi> 2 <hi>Tim:</hi> 3.16, 17. So doth the knowledg of Gods works, which are <hi>ſought out of all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem that have pleaſure therin Pſal.</hi> 111.2. yea they all make for <hi>the glory of God</hi> Pſal. 145.10 and the knowledg of Gods works is laid down in holy writt, not in a purblind ſpeculation about the creatures, but in a way infallible.</p>
+            <p n="3">3. Though the Goſpel in a ſtrict ſenſe, ſignifies the glad tidings of Redemption by Jeſus Chriſt;
+<pb n="52" facs="tcp:60819:29"/> yet it hath a larger ſignification ſometimes, as <hi>Rom.</hi> 2.16. wherin the Apoſtle tells us of the <hi>day of judgment, in which God ſhall judg the ſecrets of men according to the Goſpel:</hi> there the rule of the laſt judgment ſhall be not only the Goſpel in a ſtrict ſenſe, but as the Law may be alſo comprehended under it: and whatſoever is contained in the ſcrip<g ref="char:EOLhyphen"/>tures of the works of God, and as farr as it concerns a miniſter to preach all profitable and Scripture trueths, the knowledg of Arts &amp; Sciences is uſefull and expedient to him to hold them forth to his hearers.</p>
+            <p>Horn. <hi>The Law, or doctrine of the Lord is per<g ref="char:EOLhyphen"/>fect, for converſion &amp; edification</hi> Pſal. 19.7.</p>
+            <p>
+               <hi>Anſw.</hi> But this perfect doctrine, comprehends the doctrine of Gods works, which is called <hi>Phi<g ref="char:EOLhyphen"/>loſophy.</hi> Beſides that perfection doth not exclude, but preſuppoſe that ſame <hi>to gnoſton tou theou, Rom:</hi> 1.19. ſome common notions concerning God &amp; his works are left in every man ſtill, that muſt not be extinguiſhed.</p>
+            <p>Horn. <hi>If the ſaid heatheniſh ſciences are ne<g ref="char:EOLhyphen"/>ceſſary to ſalvation, then we are not compleat in Chriſt but the contrary is affirmed</hi> Col. 2.2, 3, 10.</p>
+            <p>
+               <hi>Anſw.</hi> Heatheniſh ſciences are not neceſſary to ſalvation, nor ſimply to make an able miniſter, chriſtian may be compleat in Chriſt, &amp; a miniſter, an able miniſter without them, as the Apoſtles and many others have been. We graunt that all the
+<pb n="53" facs="tcp:60819:29"/> treaſures of ſoul-ſaving knowledg are in Chriſt, yet this doth not exclude the expedience of the know<g ref="char:EOLhyphen"/>ledge of the Law ceremoniall or morall (which are metinoned in the ſame place <hi>Col.</hi> 2.14.) though we may be compleat in Chriſt without ſeeking our ſal<g ref="char:EOLhyphen"/>vation by them.</p>
+            <p>Horn. <hi>If we are to beware of Philoſophy leaſt we be spoyled by it, then it is not neceſſary to teach &amp; preſerve us: but the former is true</hi> Col: 2.8. <hi>and by Philoſophy the Apoſtle means not only Sophistry, but that which the wiſeſt Philoſophers accounted Phi<g ref="char:EOLhyphen"/>loſophy.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. No Chriſtian (that I know of) will ſay that heatheniſh Philoſophy is neceſſary to teach or preſerve him or others. 2. What Phi<g ref="char:EOLhyphen"/>loſophy means, he explains, and addeth to Philoſo<g ref="char:EOLhyphen"/>phy, vain deceit, &amp; that is no better then ſophiſtry.</p>
+            <p n="3">3. There are many falſe principles of heatheniſh Philoſophy, as the eternity of the world, the free<g ref="char:EOLhyphen"/>dom of the will to goodneſs, the placing of the chiefeſt good in contemplation, or in moral vertues ſuch notions as theſe will ſpoil us, and muſt bee ſhunned. But there are many true principles, even amongſt the heathens, (which the Apoſtle calleth, <hi>that which is known of God, as his eternal power and Godhead,</hi>) theſe will not ſpoil us.</p>
+            <p n="4">4; There is nothing ſo good, no not the Scrip<g ref="char:EOLhyphen"/>tures themſelves, but they may be abuſed, and it is good counſel to warn men to take heed that they
+<pb n="54" facs="tcp:60819:30"/> bee not ſpoyled by the Scriptures abuſed: much more may we be warned that we be not ſpoiled by the Philoſophy of the heathens.</p>
+            <p n="5">5. The word (ſpoiled) by an allegory, hath reſpect to what he ſpake before, about the treaſures of Chriſt or the word, <hi>verſe</hi> 2. that which robbeth us of theſe treaſures, leaves us but poor creatures, but all Philoſophicall tenents do not this.</p>
+            <p n="6">6. I deny not but that (as Ames ſaith, and it is alledged by <hi>Mr. Cranaon</hi>) the School-men &amp; Popiſh writers have made a very hodch-potcl. &amp; mingle-mangle of heatheniſh Philoſophy and Di<g ref="char:EOLhyphen"/>vinity together, and ſo brought in many pernici<g ref="char:EOLhyphen"/>ous errours into Divinity, and it is likely that the Apoſtle in this place forewarnes the faithfull to beware of ſuch Philoſophy, which is called <hi>Rev.</hi> 2. <hi>the depths of Satan,</hi> But what is this to the forbidding of ſober &amp; Chr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtian Philoſophy? What is added more then th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s by <hi>M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Horn</hi> hath been anſwered before.</p>
+            <p>
+               <hi>Mr. Crandon</hi> hath objected another place a<g ref="char:EOLhyphen"/>gainſt ſecular learning, that is <hi>Acts</hi> 19.19. <hi>wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is ſpoken of the Converts of Epheſus, while the A<g ref="char:EOLhyphen"/>poſtle was yet reſident among them, and conſequently conſenting with them, that they burnt their books of curious arts: which though ſome would have to bee underſtood of conjuring books, yet I cannot aſſent to them, becauſe this curſed, rather then curious art, was proper &amp; almoſt peculiar to the Eaſtern people,
+<pb n="55" facs="tcp:60819:30"/> Jewes, Samaritans, Egyptians &amp; Babylonians, the Greeks very little or not at all studying it but placing all their wiſdom in the arts, and theſe were Greeks that burnt their books.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. Who ever expounded this place of other then <hi>Magick books?</hi> 2. If they were not <hi>Magick</hi> (for the word is <hi>perierga,</hi> that is, cu<g ref="char:EOLhyphen"/>rious, &amp; ſuperfluous) could <hi>Mr. C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> find none ſuch but Philoſophical books? It is ſure that as the Greeks, ſome were <hi>Philoſophers,</hi> ſo there were ſome <hi>Poets, tragoutans &amp; comedians, lyricks,</hi> as <hi>Aristophanes, Pinaar, Sophocles, Euripides</hi> ſome <hi>Orators,</hi> as <hi>Demosthenes, Iſocrates,</hi> and ſome <hi>Phyſicians,</hi> as <hi>Galen, Hippocrates &amp;c:</hi> they might as well be thoſe curious books, as the Philoſophi<g ref="char:EOLhyphen"/>call. 3. If this expoſition of <hi>Mr. C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> is true, then it is a Chriſtian duty and a note of a true convert, to burn all Philoſophicall books, yea and in a publick manner: which were an hard ſaying, and I may queſtion whither <hi>Mr. Cr.</hi> did ever give this evidence of the trueth of his converſion.</p>
+            <p n="4">4. He ſeemes to be greatly deceived, in that he reſtraines that curſed art to thoſe eaſtern coun<g ref="char:EOLhyphen"/>tryes, as though that Greece were free from ſuch Deviliſh practiſes: For the contrary may appear plainly in <hi>Iulius Pollux,</hi> who is both ancient and exact in ſetting forth the religion of the Gre<g ref="char:EOLhyphen"/>cians, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. 1. <hi>cap.</hi> 1. <hi>parag.</hi> 18-19. where hee ſhewes that they had their <hi>Oracles,</hi> and <hi>spirits.</hi>
+               <pb n="56" facs="tcp:60819:31"/> that foretold things to come, their <hi>debacchantes,</hi> and <hi>numine afflatos,</hi> inſpired by the Devil, their <hi>raptures &amp; enthuſiaſmes, extaſyes, furyes,</hi> their <hi>divinations,</hi> &amp; where was the <hi>Delphick,</hi> that is <hi>Apol<g ref="char:EOLhyphen"/>lo's Oracle,</hi> but amongſt them, with which they con<g ref="char:EOLhyphen"/>ſulted upon all occaſions, and for <hi>polytheiſme,</hi> they worſhiped all the heatheniſh &amp; Devil-gods in the world, and no God was unknown to them but the true, which appears by that inſcription upon the <hi>Altar Acts</hi> 17.23. <hi>To the unknown God,</hi> be<g ref="char:EOLhyphen"/>ſides <hi>Acts</hi> 16.16. &amp;c: ye find mention of <hi>a spirit of divination</hi> which was called <hi>Python,</hi> (being like the Oracle of <hi>Apollo,</hi> whither all the people came to aſke queſtions) and <hi>OBH</hi> or <hi>eggaſtrimythos,</hi> becauſe the Devil filled the bellyes of their Pro<g ref="char:EOLhyphen"/>phets &amp; Propheteſſes, and gave the people his an<g ref="char:EOLhyphen"/>ſwer in filthy manner from thence, and this exam<g ref="char:EOLhyphen"/>ple is rather to be noted, becauſe when the Dam<g ref="char:EOLhyphen"/>oſell was diſpoſſeſſed by the Apoſtles, her maiſters were ſo enraged, and made their com<g ref="char:EOLhyphen"/>plaint to the Mag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtrates, they put the Apoſtles in priſon for it, whence it appears that all ſorts both of Magiſtrates &amp; people among them favour<g ref="char:EOLhyphen"/>ed &amp; maintained, ſuch Devilliſh practiſes. And alſo the l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke may be noted <hi>Acts</hi> 17.22. where Paul ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th of the Athenians, that they were in all th ngs <hi>aciſidaimonesteroi,</hi> fearing &amp; wor<g ref="char:EOLhyphen"/>ſh ping <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns,</hi> or Devills, and falſe Gods: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o that the Devill muſt needs have great power
+<pb n="57" facs="tcp:60819:31"/> over them. But thus much ſhall ſerve for anſwer to <hi>Mr. Crandon,</hi> the reſt that he brings is either anſwered before, or toucheth not this controverſy.</p>
+            <closer>To the only Wiſe GOD bee all Glory for ever.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
